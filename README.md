@@ -50,12 +50,10 @@
 ### **1. 데이터 다운로드**
 `/prepare/data_crawl.py`를 실행하여 이미지(.jpg)와 설명(.txt)를 다운로드합니다.
 
----
 
 ### **2. 테스트 실행**
 1에서 다운로드한 데이터와 `/koreaheritageVQAdataset/korea_heritage_VQA_final.csv`에 있는 질문을 이용하여 모델을 테스트합니다.
 
----
 
 ### **3. Fine-tuning**
 1. `/models/train_classifier.py`를 실행하여 `question_classifier.pth`를 생성합니다.  
@@ -63,7 +61,7 @@
 3. `/models/VQAmodel/fine_tune_vilt.py`를 실행하여 fine-tuned VILT 모델을 얻습니다.  
 4. `/models/VQAmodel/vilt.py`를 실행하여 결과를 확인합니다.
 
----
+
 
 ### **4. GPT를 이용한 질문 생성**
 1. 다운로드한 데이터를 경로로 설정합니다.  
