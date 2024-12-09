@@ -1,0 +1,1026 @@
+QuestionId,Name of Cultural Heritage,Question,Answer,AvgScore
+000103,Sungnyemun Gate,Who ordered the construction of Sungnyemun Gate?,King Taejo,90.0
+000104,Sungnyemun Gate,What was the purpose of Sungnyemun Gate during the Joseon Dynasty?,To protect Seoul from invasion,76.67
+000105,Sungnyemun Gate,What is the alternative name for Sungnyemun Gate?,Namdaemun,90.0
+000209,Ten-story Stone Pagoda at Wongaksa Temple Site,What is the name of the temple site where this ten-story stone pagoda is located?,Wongaksa,86.67
+000210,Ten-story Stone Pagoda at Wongaksa Temple Site,Who is believed to have built the Ten-story Stone Pagoda at Wongaksa Temple Site?,King Gyeongdeok,85.0
+000211,Ten-story Stone Pagoda at Wongaksa Temple Site,What is the significance of the Godalsa Temple mentioned in the description?,It is the oldest known temple site in Korea.,36.67
+000315,Monument on Bukhansan Mountain Commemorating the Border Inspection by King Jinheung of Silla,Who ordered the construction of the monument on Bukhansan Mountain?,King Jinheung,91.67
+000316,Monument on Bukhansan Mountain Commemorating the Border Inspection by King Jinheung of Silla,What event does the monument commemorate?,Border inspection,86.67
+000317,Monument on Bukhansan Mountain Commemorating the Border Inspection by King Jinheung of Silla,What dynasty did King Jinheung belong to?,Silla,70.0
+000421,Stupa at Godalsa Temple Site,Who was the famous poet associated with the Godalsa Temple Site?,Choe Chi-won,73.33
+000422,Stupa at Godalsa Temple Site,What was the purpose of the Godalsa Temple Site?,Meditation and worship,63.33
+000423,Stupa at Godalsa Temple Site,What historical period does the Godalsa Temple Site belong to?,Silla Dynasty,80.0
+000527,Twin Lion Stone Lantern of Beopjusa Temple,What is the name of the temple where this heritage is located?,Beopjusa Temple,66.67
+000528,Twin Lion Stone Lantern of Beopjusa Temple,Who is believed to have established Beopjusa Temple?,Uisang,56.67
+000529,Twin Lion Stone Lantern of Beopjusa Temple,What is the significance of the Twin Lion Stone Lantern in Korean cultural heritage?,It symbolizes the spread of Buddhism.,63.33
+000633,Seven-story Stone Pagoda in Tappyeong-ri,Who built the Seven-story Stone Pagoda in Tappyeong-ri?,Unknown,80.0
+000634,Seven-story Stone Pagoda in Tappyeong-ri,What is the significance of the seven stories in this heritage?,Represents the seven treasures of Buddhism,76.67
+000635,Seven-story Stone Pagoda in Tappyeong-ri,What is the current state of preservation of this heritage?,Partially destroyed,76.67
+000739,Stele for the Construction of Bongseonhonggyeongsa Temple,Who was the author of the inscription on the stele?,Choe Chi-won,91.67
+000740,Stele for the Construction of Bongseonhonggyeongsa Temple,What was the purpose of the stele for the Construction of Bongseonhonggyeongsa Temple?,To pray for the prosperity of the state,80.0
+000741,Stele for the Construction of Bongseonhonggyeongsa Temple,Where is the Godalsa Temple located?,"Chilgok, South Korea",36.67
+000845,Stele of Buddhist Monk Nanghye at Seongjusa Temple Site,Who is depicted on the stele at Seongjusa Temple Site?,Buddhist Monk Nanghye,91.67
+000846,Stele of Buddhist Monk Nanghye at Seongjusa Temple Site,What is the significance of the stele at Seongjusa Temple Site?,Commemoration of Nanghye's practice,85.0
+000847,Stele of Buddhist Monk Nanghye at Seongjusa Temple Site,Where is the Seongjusa Temple Site located?,South Korea,53.33
+000951,Five-story Stone Pagoda at Jeongnimsa Temple Site,Who was the prominent monk associated with Jeongnimsa Temple Site?,Uicheon,60.0
+000952,Five-story Stone Pagoda at Jeongnimsa Temple Site,What was the function of the Five-story Stone Pagoda at Jeongnimsa Temple Site?,To enshrine Buddhist relics,76.67
+001056,Three-story Stone Pagoda at Baekjangam Hermitage of Silsangsa Temple,Where is Baekjangam Hermitage located?,Silsangsa Temple,73.33
+001057,Three-story Stone Pagoda at Baekjangam Hermitage of Silsangsa Temple,Who is credited with building the Three-story Stone Pagoda?,Doseon,85.0
+001058,Three-story Stone Pagoda at Baekjangam Hermitage of Silsangsa Temple,What is the significance of Baekjangam Hermitage in Korean Buddhism?,It is a sacred place for meditation and prayer.,53.33
+001162,Stone Pagoda at Mireuksa Temple Site,Who is believed to have built the Mireuksa Temple Site?,King Mu of Baekje,88.33
+001163,Stone Pagoda at Mireuksa Temple Site,What is the significance of the Mireuksa Temple Site in Korean history?,It was a major Buddhist temple complex.,70.0
+001164,Stone Pagoda at Mireuksa Temple Site,What is the name of the monk who is said to have established the Mireuksa Temple Site?,Jajang,91.67
+001268,Stone Lantern at Gakhwangjeon Hall of Hwaeomsa Temple,Who is credited with the revival of the Hwaeomsa Temple in 1592?,Samyeongdang,63.33
+001269,Stone Lantern at Gakhwangjeon Hall of Hwaeomsa Temple,What is the meaning of the inscription on the stele at the temple?,A wish for the reunification of Korea,53.33
+001270,Stone Lantern at Gakhwangjeon Hall of Hwaeomsa Temple,What is the significance of the name 'Gakhwangjeon Hall'?,Hall of the Bright Light,73.33
+001374,Geungnakbojeon Hall of Muwisa Temple,Who was the Korean monk known for the inscription on the stele?,Choe Chi-won,50.0
+001375,Geungnakbojeon Hall of Muwisa Temple,What is the name of the temple where the Geungnakbojeon Hall is located?,Muwisa Temple,80.0
+001376,Geungnakbojeon Hall of Muwisa Temple,What is the significance of the Geungnakbojeon Hall in Korean Buddhism?,It is dedicated to the Pure Land Buddha Amitabha.,66.67
+001480,Yeongsanjeon Hall of Geojosa Temple,Who founded the Geojosa Temple?,Choe Chi-won,85.0
+001481,Yeongsanjeon Hall of Geojosa Temple,When was the Yeongsanjeon Hall built?,1636,90.0
+001482,Yeongsanjeon Hall of Geojosa Temple,What is the significance of the Yeongsanjeon Hall in Geojosa Temple?,"It houses the portrait of King Taejo, the founder of the Joseon Dynasty.",85.0
+001586,Geungnakjeon Hall of Bongjeongsa Temple,Who is believed to have founded Bongjeongsa Temple?,Uisang,80.0
+001587,Geungnakjeon Hall of Bongjeongsa Temple,What is the significance of Geungnakjeon Hall within Bongjeongsa Temple?,It is the main hall for Amitabha Buddha worship,85.0
+001588,Geungnakjeon Hall of Bongjeongsa Temple,What is the name of the stele that stands in front of the Geungnakjeon Hall?,Godalsa Temple Stele,80.0
+001692,Seven-story Brick Pagoda at Beopheungsa Temple Site,Where is the Seven-story Brick Pagoda located?,Beopheungsa Temple Site,86.67
+001693,Seven-story Brick Pagoda at Beopheungsa Temple Site,Who is believed to have built the Seven-story Brick Pagoda?,King Munmu,80.0
+001694,Seven-story Brick Pagoda at Beopheungsa Temple Site,What is the significance of the Seven-story Brick Pagoda at Beopheungsa Temple Site?,It is a national treasure of South Korea.,80.0
+001798,Stone Lantern at Muryangsujeon Hall of Buseoksa Temple,Who is believed to have erected this heritage?,Choe Chi-won,73.33
+001799,Stone Lantern at Muryangsujeon Hall of Buseoksa Temple,What is the name of the hall where this stone lantern is located?,Muryangsujeon Hall,83.33
+0017100,Stone Lantern at Muryangsujeon Hall of Buseoksa Temple,In which temple is this heritage situated?,Buseoksa Temple,63.33
+0018104,Muryangsujeon Hall of Buseoksa Temple,Who founded the Buseoksa Temple?,Uisang,83.33
+0018105,Muryangsujeon Hall of Buseoksa Temple,What is the significance of the Muryangsujeon Hall within Buseoksa Temple?,It is the main prayer hall.,73.33
+0019109,Josadang Shrine of Buseoksa Temple,Who is believed to have founded the Buseoksa Temple?,Uisang,90.0
+0019110,Josadang Shrine of Buseoksa Temple,What is the significance of the Josadang Shrine within the Buseoksa Temple complex?,It houses the portrait of Choe Chi-won.,85.0
+0020114,Dabotap Pagoda of Bulguksa Temple,Who was responsible for the reconstruction of the Dabotap Pagoda?,Kim Dae-seong,90.0
+0020115,Dabotap Pagoda of Bulguksa Temple,What is the significance of the Dabotap Pagoda in Buddhist symbolism?,Represents the unity of Silla and Tang dynasties,73.33
+0020116,Dabotap Pagoda of Bulguksa Temple,Where is the Dabotap Pagoda located within the Bulguksa Temple complex?,East of the main hall,80.0
+0021120,Three-story Stone Pagoda of Bulguksa Temple,Who built the Three-story Stone Pagoda of Bulguksa Temple?,Unknown,80.0
+0021121,Three-story Stone Pagoda of Bulguksa Temple,What is the significance of the Bulguksa Temple in Korean cultural heritage?,It is considered a masterpiece of Buddhist art and architecture.,70.0
+0022125,Yeonhwagyo and Chilbogyo Bridges of Bulguksa Temple,What is the name of the temple where Yeonhwagyo and Chilbogyo Bridges are located?,Bulguksa,83.33
+0022126,Yeonhwagyo and Chilbogyo Bridges of Bulguksa Temple,Who built the Bulguksa Temple?,Kim Daeseong,70.0
+0022127,Yeonhwagyo and Chilbogyo Bridges of Bulguksa Temple,Which dynasty oversaw the construction of this heritage?,Silla,83.33
+0023131,Cheongungyo and Baegungyo Bridges of Bulguksa Temple,What is the name of the temple where these bridges are located?,Bulguksa,63.33
+0023132,Cheongungyo and Baegungyo Bridges of Bulguksa Temple,Who is believed to have built the Cheongungyo and Baegungyo Bridges?,Park Hyeokgeose,80.0
+0023133,Cheongungyo and Baegungyo Bridges of Bulguksa Temple,What is the significance of the bridges in relation to the temple?,They represent the way to heaven in Buddhist belief.,81.67
+0024137,Seokguram Grotto,Who is believed to have built Seokguram Grotto?,Kim Dae-seong,95.0
+0024138,Seokguram Grotto,What religious figure is enshrined in Seokguram Grotto?,Buddha,86.67
+0024139,Seokguram Grotto,What is the significance of Seokguram Grotto in Korean Buddhism?,It is considered a masterpiece of Buddhist art in Korea.,85.0
+0025143,Stele of King Muyeol,Who was King Muyeol's father?,King Taejong Muyeol,73.33
+0025144,Stele of King Muyeol,Where was the stele originally located?,Godalsa Temple,81.67
+0025145,Stele of King Muyeol,What dynasty did King Muyeol rule?,Silla Dynasty,80.0
+0026149,Gilt-bronze Seated Vairocana Buddha of Bulguksa Temple,What is the name of the temple where this heritage is located?,Bulguksa,80.0
+0026150,Gilt-bronze Seated Vairocana Buddha of Bulguksa Temple,Who is believed to be represented by the seated Vairocana Buddha?,Buddha of Light,73.33
+0026151,Gilt-bronze Seated Vairocana Buddha of Bulguksa Temple,What is the significance of the Vairocana Buddha in Korean Buddhism?,Central deity,66.67
+0027155,Gilt-bronze Seated Amitabha Buddha of Bulguksa Temple,Who is the figure depicted in this heritage?,Amitabha Buddha,83.33
+0027156,Gilt-bronze Seated Amitabha Buddha of Bulguksa Temple,Where is the Gilt-bronze Seated Amitabha Buddha located?,Bulguksa Temple,83.33
+0027157,Gilt-bronze Seated Amitabha Buddha of Bulguksa Temple,What is the significance of Bulguksa Temple in Korean cultural heritage?,UNESCO World Heritage Site,63.33
+0028161,Gilt-bronze Standing Bhaisajyaguru Buddha of Baengnyulsa Temple,Who is depicted in this heritage?,Bhaisajyaguru Buddha,80.0
+0028162,Gilt-bronze Standing Bhaisajyaguru Buddha of Baengnyulsa Temple,Where is Baengnyulsa Temple located?,South Korea,60.0
+0028163,Gilt-bronze Standing Bhaisajyaguru Buddha of Baengnyulsa Temple,What does the inscription on the stele praise?,The merits of the Godalsa Temple.,43.33
+0029167,Sacred Bell of Great King Seongdeok,Who was the Great King Seongdeok?,Silla monarch,66.67
+0029168,Sacred Bell of Great King Seongdeok,Where is the Sacred Bell of Great King Seongdeok currently located?,National Museum of Korea,80.0
+0029169,Sacred Bell of Great King Seongdeok,What is the significance of the bell in Korean history?,Represents the peak of Silla art and technology.,66.67
+0030173,Stone Brick Pagoda of Bunhwangsa Temple,Who founded the Bunhwangsa Temple?,Uija of Baekje,86.67
+0030174,Stone Brick Pagoda of Bunhwangsa Temple,What is the significance of the Bunhwangsa Temple in Korean history?,It is one of the oldest temples in Korea.,70.0
+0030175,Stone Brick Pagoda of Bunhwangsa Temple,What is the height of the Stone Brick Pagoda of Bunhwangsa Temple?,9.4 meters,76.67
+0031179,Cheomseongdae Observatory,Who is believed to have designed Cheomseongdae Observatory?,Queen Seondeok,90.0
+0031180,Cheomseongdae Observatory,What was the purpose of Cheomseongdae Observatory?,Astronomical observations,95.0
+0031181,Cheomseongdae Observatory,In what country is Cheomseongdae Observatory located?,South Korea,53.33
+0032185,Printing Woodblocks of the Tripitaka Koreana in Haeinsa Temple,Where are the Printing Woodblocks of the Tripitaka Koreana located?,Haeinsa Temple,90.0
+0032186,Printing Woodblocks of the Tripitaka Koreana in Haeinsa Temple,How many characters are carved on each woodblock?,"Over 50,000",85.0
+0032187,Printing Woodblocks of the Tripitaka Koreana in Haeinsa Temple,What is the significance of the Tripitaka Koreana in Korean culture?,It is a complete collection of Buddhist scriptures.,85.0
+0033191,Monument in Changnyeong Commemorating the Border Expansion by King Jinheung of Silla,Who was the king who expanded the border commemorated by this monument?,King Jinheung,95.0
+0033192,Monument in Changnyeong Commemorating the Border Expansion by King Jinheung of Silla,In which kingdom did King Jinheung rule?,Silla,80.0
+0033193,Monument in Changnyeong Commemorating the Border Expansion by King Jinheung of Silla,What is the significance of the inscription on the stele at this heritage?,Commemorating border expansion.,85.0
+0034197,East Three-story Stone Pagoda in Suljeong-ri,Who is believed to have built the East Three-story Stone Pagoda in Suljeong-ri?,Silla Kingdom,76.67
+0034198,East Three-story Stone Pagoda in Suljeong-ri,What is the significance of the East Three-story Stone Pagoda in Suljeong-ri?,Represents the architecture of the Unified Silla period,70.0
+0034199,East Three-story Stone Pagoda in Suljeong-ri,What is the current state of preservation of this heritage?,National treasure,40.0
+0035203,Four Lion Three-story Stone Pagoda of Hwaeomsa Temple,Where is the Four Lion Three-story Stone Pagoda of Hwaeomsa Temple located?,Hwaeomsa Temple,76.67
+0035204,Four Lion Three-story Stone Pagoda of Hwaeomsa Temple,Who is credited with the construction of this heritage?,Choe Chi-won,56.67
+0035205,Four Lion Three-story Stone Pagoda of Hwaeomsa Temple,What is the significance of the inscription on the stele?,Composed a poem,50.0
+0036209,Bronze Bell of Sangwonsa Temple,Who was responsible for casting the Bronze Bell of Sangwonsa Temple?,King Seongdeok,90.0
+0036210,Bronze Bell of Sangwonsa Temple,What is the significance of the bell in the history of Korean Buddhism?,Symbol of unity and prayer revival,53.33
+0036211,Bronze Bell of Sangwonsa Temple,Where is Sangwonsa Temple located?,"Goseong, South Korea",53.33
+0037215,Three-story Stone Pagoda at Hwangboksa Temple Site,Who is believed to have built the Hwangboksa Temple?,King Mu of Baekje,88.33
+0037216,Three-story Stone Pagoda at Hwangboksa Temple Site,Which dynasty did the Hwangboksa Temple belong to?,Baekje Dynasty,91.67
+0037217,Three-story Stone Pagoda at Hwangboksa Temple Site,What is the significance of the Three-story Stone Pagoda?,Represents the connection between Baekje and Silla.,73.33
+0038221,Three-story Stone Pagoda from Goseonsa Temple Site,What is the name of the temple site where this three-story stone pagoda is located?,Goseonsa Temple Site,86.67
+0038222,Three-story Stone Pagoda from Goseonsa Temple Site,Who is believed to have built the Three-story Stone Pagoda from Goseonsa Temple Site?,Master Doseon,88.33
+0038223,Three-story Stone Pagoda from Goseonsa Temple Site,What historical period does the Three-story Stone Pagoda from Goseonsa Temple Site date back to?,Unified Silla period,90.0
+0039227,Five-story Stone Pagoda in Nawon-ri,Who is believed to have built the Five-story Stone Pagoda in Nawon-ri?,Kim Yusin,81.67
+0039228,Five-story Stone Pagoda in Nawon-ri,What is the significance of the Godalsa Temple in Korean history?,It is a symbol of Silla dynasty Buddhism.,40.0
+0039229,Five-story Stone Pagoda in Nawon-ri,What is the current state of preservation of the Five-story Stone Pagoda in Nawon-ri?,Partially damaged,81.67
+0040233,Thirteen-story Stone Pagoda at Jeonghyesa Temple Site,Who is believed to have built the Thirteen-story Stone Pagoda at Jeonghyesa Temple Site?,Unified Silla Dynasty,85.0
+0040234,Thirteen-story Stone Pagoda at Jeonghyesa Temple Site,What is the significance of the inscription on the stele?,It provides historical information about the pagoda.,63.33
+0040235,Thirteen-story Stone Pagoda at Jeonghyesa Temple Site,What is the name of the temple associated with this heritage?,Jeonghyesa Temple,90.0
+0041239,Iron Flagpole at Yongdusa Temple Site,Who was the monk that wrote the inscription on the stele?,Choe Chi-won,90.0
+0041240,Iron Flagpole at Yongdusa Temple Site,What is the significance of the Yongdusa Temple Site in Korean history?,It is a historic site related to Buddhism.,53.33
+0041241,Iron Flagpole at Yongdusa Temple Site,What is the approximate age of the Iron Flagpole at Yongdusa Temple Site?,"1,400 years old",90.0
+0042245,Portable Shrine of Wooden Buddha Triad at Songgwangsa Temple,Who is depicted in the central Buddha statue?,Sakyamuni Buddha,73.33
+0042246,Portable Shrine of Wooden Buddha Triad at Songgwangsa Temple,Which temple houses this portable shrine?,Songgwangsa Temple,80.0
+0042247,Portable Shrine of Wooden Buddha Triad at Songgwangsa Temple,What is the name of the monk who founded Songgwangsa Temple?,Master Jinul,66.67
+0043251,Royal Edict of Appointment Issued to Great Master Hyesim,Who was appointed as the Great Master in this Royal Edict?,Hyesim,91.67
+0043252,Royal Edict of Appointment Issued to Great Master Hyesim,What is the significance of the Royal Edict of Appointment to Great Master Hyesim?,It recognized his leadership in Buddhism.,85.0
+0043253,Royal Edict of Appointment Issued to Great Master Hyesim,Who issued the Royal Edict of Appointment to Great Master Hyesim?,King Seongjong,91.67
+0044257,South and North Three-story Stone Pagodas and Stone Lantern of Borimsa Temple,Who is believed to have built the South and North Three-story Stone Pagodas and Stone Lantern of Borimsa Temple?,Monk Wonhyo,81.67
+0044258,South and North Three-story Stone Pagodas and Stone Lantern of Borimsa Temple,What is the significance of the Borimsa Temple in Korean Buddhism?,It is one of the oldest temples in Korea.,56.67
+0044259,South and North Three-story Stone Pagodas and Stone Lantern of Borimsa Temple,What is the approximate height of the stone pagodas at Borimsa Temple?,9 meters,76.67
+0045263,Clay Seated Buddha of Buseoksa Temple,Where is the Clay Seated Buddha of Buseoksa Temple located?,South Korea,60.0
+0045264,Clay Seated Buddha of Buseoksa Temple,Who is believed to have sculpted the Clay Seated Buddha of Buseoksa Temple?,Uisang,85.0
+0045265,Clay Seated Buddha of Buseoksa Temple,What is the significance of the Buseoksa Temple in Korean Buddhism?,It is one of the oldest temples in South Korea.,63.33
+0046269,Mural Painting in Josadang Shrine of Buseoksa Temple,Who is credited with painting the mural in Josadang Shrine of Buseoksa Temple?,An Gyeon,90.0
+0046270,Mural Painting in Josadang Shrine of Buseoksa Temple,What is the significance of the Josadang Shrine within Buseoksa Temple?,It is a place for prayer and worship.,56.67
+0047274,Stele of Master Jingam at Ssanggyesa Temple,Who was Master Jingam?,Monk,66.67
+0047275,Stele of Master Jingam at Ssanggyesa Temple,Where is Ssanggyesa Temple located?,South Korea,53.33
+0047276,Stele of Master Jingam at Ssanggyesa Temple,What is the significance of the Stele of Master Jingam?,Historical inscription,80.0
+0048280,Octagonal Nine-story Stone Pagoda of Woljeongsa Temple,Who built the Octagonal Nine-story Stone Pagoda of Woljeongsa Temple?,Choe Chi-won,83.33
+0048281,Octagonal Nine-story Stone Pagoda of Woljeongsa Temple,What temple is associated with this heritage?,Woljeongsa Temple,86.67
+0048282,Octagonal Nine-story Stone Pagoda of Woljeongsa Temple,How many stories does the Octagonal Nine-story Stone Pagoda have?,Nine,50.0
+0049286,Stone Seated Bodhisattva of Woljeongsa Temple,Who is believed to be enshrined in the body of this Bodhisattva?,Sakyamuni Buddha,53.33
+0049287,Stone Seated Bodhisattva of Woljeongsa Temple,What is the significance of the Bodhisattva's eyes looking down?,Symbolizes meditation and inner reflection,75.0
+0049288,Stone Seated Bodhisattva of Woljeongsa Temple,What is the name of the temple where this Bodhisattva is located?,Woljeongsa Temple,76.67
+0050292,Daeungjeon Hall of Sudeoksa Temple,Who is credited with the creation of the Sudeoksa Temple?,Uisang,66.67
+0050293,Daeungjeon Hall of Sudeoksa Temple,What significant event took place at the Godalsa Temple in 940 AD?,The temple was burned down,36.67
+0050294,Daeungjeon Hall of Sudeoksa Temple,What is the meaning of the name 'Daeungjeon Hall' in English?,Main Buddha Hall,56.67
+0051298,Haetalmun Gate of Dogapsa Temple,Who built the Haetalmun Gate of Dogapsa Temple?,Choe Chi-won,85.0
+0051299,Haetalmun Gate of Dogapsa Temple,What does the inscription on the stele at this heritage describe?,History of the temple,63.33
+0051300,Haetalmun Gate of Dogapsa Temple,What is the significance of the Haetalmun Gate in the history of Dogapsa Temple?,Entrance gate,80.0
+0052304,Main Gate of Imyeonggwan Guesthouse,Who was the Main Gate of Imyeonggwan Guesthouse built for?,Joseon Dynasty officials,70.0
+0052305,Main Gate of Imyeonggwan Guesthouse,What is the significance of the stele inscription at this heritage?,It commemorates the construction of the guesthouse,80.0
+0052306,Main Gate of Imyeonggwan Guesthouse,What is the name of the area where the Main Gate of Imyeonggwan Guesthouse is located?,Jongno-gu,53.33
+0053310,Janggyeongpanjeon Depositories of Haeinsa Temple,What is the name of the depositories of the Tripitaka Koreana housed in Haeinsa Temple?,Janggyeongpanjeon,95.0
+0053311,Janggyeongpanjeon Depositories of Haeinsa Temple,Who is credited with the idea of building the Janggyeongpanjeon depositories?,Choe Chi-won,81.67
+0053312,Janggyeongpanjeon Depositories of Haeinsa Temple,How many wooden printing blocks of the Tripitaka Koreana are stored in the Janggyeongpanjeon?,"81,258",90.0
+0054316,East Stupa of Yeongoksa Temple,Who was responsible for the renovation of the East Stupa of Yeongoksa Temple in 1706?,Choe Hae-san,90.0
+0054317,East Stupa of Yeongoksa Temple,What is the significance of the Yeongoksa Temple in Korean Buddhism?,It is a significant temple in the history of Korean Buddhism.,63.33
+0054318,East Stupa of Yeongoksa Temple,What is the height of the East Stupa of Yeongoksa Temple?,6.1 meters,73.33
+0055322,North Stupa of Yeongoksa Temple,Who is believed to have built the North Stupa of Yeongoksa Temple?,Choe Chi-won,90.0
+0055323,North Stupa of Yeongoksa Temple,What is the significance of the North Stupa within the temple complex?,It is believed to contain the remains of the temple's founder.,85.0
+0055324,North Stupa of Yeongoksa Temple,What is the historical importance of Yeongoksa Temple in Korean Buddhism?,"It is one of the oldest temples in the region, dating back to the Three Kingdoms period.",70.0
+0056328,Palsangjeon Wooden Pagoda of Beopjusa Temple,Who built the Palsangjeon Wooden Pagoda of Beopjusa Temple?,Silla King,80.0
+0056329,Palsangjeon Wooden Pagoda of Beopjusa Temple,What does the inscription on the stele of this heritage depict?,Poems,50.0
+0056330,Palsangjeon Wooden Pagoda of Beopjusa Temple,What is the significance of the Palsangjeon Wooden Pagoda in Korean Buddhism?,Oldest wooden pagoda in Korea,86.67
+0057334,Guksajeon Shrine of Songgwangsa Temple,Who is credited with establishing the Songgwangsa Temple?,Jajang,80.0
+0057335,Guksajeon Shrine of Songgwangsa Temple,What is the significance of Guksajeon Shrine within Songgwangsa Temple?,It houses the portrait of King Sejo.,81.67
+0057336,Guksajeon Shrine of Songgwangsa Temple,What does the inscription on the stele at the shrine commemorate?,The renovation of the shrine.,80.0
+0058340,Stupa of Master Cheolgam at Ssangbongsa Temple,Who is believed to have built the Stupa of Master Cheolgam at Ssangbongsa Temple?,Choe Chi-won,91.67
+0058341,Stupa of Master Cheolgam at Ssangbongsa Temple,What is the significance of the stele inscription at the temple?,It contains a poem written by Choe Chi-won,56.67
+0058342,Stupa of Master Cheolgam at Ssangbongsa Temple,What is the name of the temple where the Stupa of Master Cheolgam is located?,Ssangbongsa Temple,80.0
+0059346,Iron Seated Bhaisajyaguru Buddha and Stone Pedestal of Janggoksa Temple,Who is depicted in this heritage?,Bhaisajyaguru Buddha,85.0
+0059347,Iron Seated Bhaisajyaguru Buddha and Stone Pedestal of Janggoksa Temple,What is the name of the temple this heritage belongs to?,Janggoksa Temple,86.67
+0059348,Iron Seated Bhaisajyaguru Buddha and Stone Pedestal of Janggoksa Temple,What is the significance of the inscription on the stele?,It provides historical information about the heritage.,63.33
+0060352,Stele of State Preceptor Jigwang at Beopcheonsa Temple Site,Who was the State Preceptor mentioned on the stele?,Jigwang,80.0
+0060353,Stele of State Preceptor Jigwang at Beopcheonsa Temple Site,Where is the Beopcheonsa Temple Site located?,Korea,53.33
+0060354,Stele of State Preceptor Jigwang at Beopcheonsa Temple Site,What role did Choe Chi-won have in Korean history?,Scholar,40.0
+0061358,Celadon Incense Burner with Lion-shaped Lid,Who is believed to have used this Celadon Incense Burner with Lion-shaped Lid?,Royalty,73.33
+0061359,Celadon Incense Burner with Lion-shaped Lid,What is the significance of the lion motif on this heritage?,Symbol of strength and protection,73.33
+0061360,Celadon Incense Burner with Lion-shaped Lid,Where was this Celadon Incense Burner with Lion-shaped Lid unearthed?,Goryeo Dynasty royal kiln site,70.0
+0062364,Celadon Ewer in the Shape of a Fish-dragon,What is the cultural significance of a fish-dragon in the context of this heritage?,Symbol of power and good fortune,80.0
+0062365,Celadon Ewer in the Shape of a Fish-dragon,Where was this Celadon Ewer in the Shape of a Fish-dragon discovered?,Goryeo Dynasty,63.33
+0062366,Celadon Ewer in the Shape of a Fish-dragon,What material is the Celadon Ewer in the Shape of a Fish-dragon made of?,Porcelain,73.33
+0063370,Mireukjeon Hall of Geumsansa Temple,Who is believed to have built the Mireukjeon Hall of Geumsansa Temple?,Choe Chi-won,80.0
+0063371,Mireukjeon Hall of Geumsansa Temple,What is the significance of the Mireukjeon Hall within the Geumsansa Temple complex?,"It is the main hall dedicated to Maitreya, the future Buddha.",85.0
+0064375,Iron Seated Vairocana Buddha of Dopiansa Temple,Who was the Vairocana Buddha seated at Dopiansa Temple dedicated to?,Cosmic Buddha,80.0
+0064376,Iron Seated Vairocana Buddha of Dopiansa Temple,What is the significance of the inscription by Choe Chi-won on the stele?,Praising the Buddha,60.0
+0064377,Iron Seated Vairocana Buddha of Dopiansa Temple,What is the historical importance of the Dopiansa Temple?,Oldest surviving wooden structure in Korea,53.33
+0065381,Stone Lotus Basin of Beopjusa Temple,Who founded the Beopjusa Temple?,Uisang,56.67
+0065382,Stone Lotus Basin of Beopjusa Temple,What is inscribed on the stele of this heritage?,A poem,56.67
+0065383,Stone Lotus Basin of Beopjusa Temple,What is the significance of the lotus flower in Buddhist symbolism?,Purity and enlightenment,56.67
+0066387,Celadon Incense Burner with Girin-shaped Lid,What material is this heritage made of?,Celadon,66.67
+0066388,Celadon Incense Burner with Girin-shaped Lid,Who is believed to have made this heritage?,Kim Jeong-hui,43.33
+0066389,Celadon Incense Burner with Girin-shaped Lid,In which country did celadon pottery originate?,Korea,50.0
+0067393,Celadon Kundika with Inlaid Willow,Who is credited with the creation of Celadon pottery in Korea?,Choe Chi-won,43.33
+0067394,Celadon Kundika with Inlaid Willow,What type of pottery is this heritage an example of?,Celadon,73.33
+0067395,Celadon Kundika with Inlaid Willow,What is the significance of willow in Korean culture?,Symbol of resilience and flexibility,63.33
+0068399,Gakhwangjeon Hall of Hwaeomsa Temple,What is the name of the hall located at Hwaeomsa Temple?,Gakhwangjeon Hall,86.67
+0068400,Gakhwangjeon Hall of Hwaeomsa Temple,Who is credited with the construction of Gakhwangjeon Hall?,Master Uisang,90.0
+0068401,Gakhwangjeon Hall of Hwaeomsa Temple,What type of Buddhist sect is associated with Hwaeomsa Temple?,Hwaeom,90.0
+0069405,Celadon Prunus Vase with Inlaid Cloud and Crane Design,What is the main motif inlaid on the Celadon Prunus Vase?,Cloud and crane,90.0
+0069406,Celadon Prunus Vase with Inlaid Cloud and Crane Design,What type of design technique was used on this heritage?,Inlaid,81.67
+0069407,Celadon Prunus Vase with Inlaid Cloud and Crane Design,What is the material of this heritage?,Celadon,73.33
+0070411,Certificate of Meritorious Subject Issued to Sim Ji-baek,Who was the recipient of the Certificate of Meritorious Subject?,Sim Ji-baek,96.67
+0070412,Certificate of Meritorious Subject Issued to Sim Ji-baek,What was the reason for issuing the Certificate of Meritorious Subject to Sim Ji-baek?,For his loyalty and devotion to the state.,85.0
+0071416,Hunminjeongeum (The Proper Sounds for the Instruction of the People),What is the purpose of 'Hunminjeongeum'?,To educate the people on how to read and write Korean.,90.0
+0071417,Hunminjeongeum (The Proper Sounds for the Instruction of the People),Who is credited with creating 'Hunminjeongeum'?,King Sejong,98.33
+0071418,Hunminjeongeum (The Proper Sounds for the Instruction of the People),What language is used in 'Hunminjeongeum'?,Korean,83.33
+0072422,Dongguk jeongun (Standard Rhymes of the Eastern State),Who is credited with compiling the 'Dongguk jeongun'?,Choe Chi-won,91.67
+0072423,Dongguk jeongun (Standard Rhymes of the Eastern State),What was the purpose of creating the 'Dongguk jeongun'?,To standardize rhymes for poetic composition,85.0
+0072424,Dongguk jeongun (Standard Rhymes of the Eastern State),In which country was the 'Dongguk jeongun' created?,Korea,83.33
+0073428,"Gilt-bronze Standing Buddha Triad with Inscription of ""Gyemi Year""",What is inscribed on this heritage?,"""Gyemi Year""",86.67
+0073429,"Gilt-bronze Standing Buddha Triad with Inscription of ""Gyemi Year""",Who is believed to have created this heritage?,Unknown,60.0
+0073430,"Gilt-bronze Standing Buddha Triad with Inscription of ""Gyemi Year""",What is the significance of the inscription on this heritage?,It provides historical context.,80.0
+0074434,Portable Shrine of Gilt-bronze Buddha Triad,Who is credited with creating the Portable Shrine of Gilt-bronze Buddha Triad?,Unknown,73.33
+0074435,Portable Shrine of Gilt-bronze Buddha Triad,What is the significance of the Portable Shrine of Gilt-bronze Buddha Triad in Korean heritage?,Important religious artifact,80.0
+0074436,Portable Shrine of Gilt-bronze Buddha Triad,Where is the Portable Shrine of Gilt-bronze Buddha Triad currently located?,National Museum of Korea,80.0
+0075440,Celadon Duck-shaped Water Dropper,Who is credited with inventing the celadon glaze?,Chinese,46.67
+0075441,Celadon Duck-shaped Water Dropper,What dynasty is known for producing celadon ceramics in Korea?,Goryeo dynasty,70.0
+0075442,Celadon Duck-shaped Water Dropper,What was the purpose of celadon water droppers during the Goryeo dynasty?,Used in ritual ceremonies,60.0
+0076446,Bronze Incense Burner with Silver-inlaid Design of Pyochungsa Temple,What is the name of the temple depicted in the silver-inlaid design?,Pyochungsa Temple,91.67
+0076447,Bronze Incense Burner with Silver-inlaid Design of Pyochungsa Temple,What is the purpose of this heritage?,Incense burning,66.67
+0076448,Bronze Incense Burner with Silver-inlaid Design of Pyochungsa Temple,Who created the silver-inlaid design on this heritage?,Unknown,80.0
+0077452,Nanjung ilgi (War Diary),Who authored the 'Nanjung ilgi (War Diary)'?,Yi Sun-sin,95.0
+0077453,Nanjung ilgi (War Diary),In what language is the 'Nanjung ilgi (War Diary)' written?,Korean,83.33
+0077454,Nanjung ilgi (War Diary),What period does the 'Nanjung ilgi (War Diary)' cover?,Japanese invasions of Korea (1592-1598),90.0
+0078458,Five-story Stone Pagoda in Tamni-ri,Who built the Five-story Stone Pagoda in Tamni-ri?,Unknown,73.33
+0078459,Five-story Stone Pagoda in Tamni-ri,What is the significance of the Five-story Stone Pagoda in Tamni-ri?,It is a cultural heritage site in South Korea.,66.67
+0079463,Gilt-bronze Pensive Maitreya Bodhisattva(1962-1),Who is the figure represented in this heritage?,Maitreya Bodhisattva,80.0
+0079464,Gilt-bronze Pensive Maitreya Bodhisattva(1962-1),When was this heritage created?,1962,46.67
+0079465,Gilt-bronze Pensive Maitreya Bodhisattva(1962-1),Who is believed to have originally commissioned this heritage?,King Sejo,50.0
+0080469,Gold Seated Buddha from Guhwang-dong,Where was the Gold Seated Buddha from Guhwang-dong discovered?,South Korea,73.33
+0080470,Gold Seated Buddha from Guhwang-dong,Who is believed to have made the Gold Seated Buddha?,Unknown,60.0
+0080471,Gold Seated Buddha from Guhwang-dong,What is the significance of the Gold Seated Buddha in Korean cultural heritage?,Important Buddhist artifact,66.67
+0081475,Gold Standing Buddha from Guhwang-dong,Where was the Gold Standing Buddha from Guhwang-dong discovered?,Korea,53.33
+0081476,Gold Standing Buddha from Guhwang-dong,Who was responsible for bringing the Gold Standing Buddha from Guhwang-dong to Japan?,Yi Hwang,43.33
+0081477,Gold Standing Buddha from Guhwang-dong,What is the significance of the Gold Standing Buddha from Guhwang-dong in Korean art history?,Influential,80.0
+0082481,Stone Standing Maitreya Bodhisattva of Gamsansa Temple,Who is depicted in the stone standing statue at Gamsansa Temple?,Maitreya Bodhisattva,83.33
+0082482,Stone Standing Maitreya Bodhisattva of Gamsansa Temple,What is the significance of the stele inscription by Choe Chi-won at Gamsansa Temple?,Praising the Buddha,60.0
+0082483,Stone Standing Maitreya Bodhisattva of Gamsansa Temple,What is the architectural style of Gamsansa Temple?,Korean Buddhist architecture,53.33
+0083487,Stone Standing Amitabha Buddha of Gamsansa Temple,Who was the stone statue of Amitabha Buddha dedicated to?,King Munseong,63.33
+0083488,Stone Standing Amitabha Buddha of Gamsansa Temple,What is the significance of the Gamsansa Temple in Korean history?,It was a center for the propagation of the Buddhist faith.,53.33
+0084492,Gilt-bronze Pensive Maitreya Bodhisattva,Who is depicted in the heritage?,Maitreya Bodhisattva,83.33
+0084493,Gilt-bronze Pensive Maitreya Bodhisattva,What is the significance of the pensive pose in Buddhist iconography?,Reflecting on the suffering of sentient beings,63.33
+0084494,Gilt-bronze Pensive Maitreya Bodhisattva,What is the approximate height of this heritage?,8 inches,46.67
+0085498,Rock-carved Buddha Triad in Yonghyeon-ri,Who is credited with creating the Rock-carved Buddha Triad in Yonghyeon-ri?,Unknown,80.0
+0085499,Rock-carved Buddha Triad in Yonghyeon-ri,What is the significance of the inscription on the stele in this heritage?,Historical information,63.33
+0085500,Rock-carved Buddha Triad in Yonghyeon-ri,What is the current condition of the Godalsa Temple in Yonghyeon-ri?,Ruins,53.33
+0086504,"Gilt-bronze Standing Buddha Triad with Inscription of ""Sinmyo Year""",Who is credited with creating the inscription on this heritage?,Choe Chi-won,81.67
+0086505,"Gilt-bronze Standing Buddha Triad with Inscription of ""Sinmyo Year""",What year is associated with the inscription on this heritage?,Sinmyo Year,90.0
+0086506,"Gilt-bronze Standing Buddha Triad with Inscription of ""Sinmyo Year""",What is the significance of the Sinmyo Year inscription on this heritage?,It provides historical context for dating.,90.0
+0087510,Ten-story Stone Pagoda from Gyeongcheonsa Temple Site,What is the name of the temple site where this heritage is located?,Gyeongcheonsa,90.0
+0087511,Ten-story Stone Pagoda from Gyeongcheonsa Temple Site,Who was responsible for the construction of the Godalsa Temple?,Choe Chi-won,36.67
+0087512,Ten-story Stone Pagoda from Gyeongcheonsa Temple Site,What is the significance of the ten-story stone pagoda from Gyeongcheonsa Temple Site?,It is a valuable cultural heritage representing ancient Korean architecture.,76.67
+0088516,Gold Crown and Diadem Ornaments from Geumgwanchong Tomb,Where was the Gold Crown and Diadem Ornaments found?,Geumgwanchong Tomb,83.33
+0088517,Gold Crown and Diadem Ornaments from Geumgwanchong Tomb,What was the purpose of the Gold Crown and Diadem Ornaments?,To adorn the deceased in the afterlife,85.0
+0088518,Gold Crown and Diadem Ornaments from Geumgwanchong Tomb,Who was buried in the Geumgwanchong Tomb?,A noble person from the Silla Kingdom,76.67
+0089522,Gold Waist Belt from Geumgwanchong Tomb,What is the name of the tomb where this gold waist belt was found?,Geumgwanchong Tomb,90.0
+0089523,Gold Waist Belt from Geumgwanchong Tomb,What is the significance of the Geumgwanchong Tomb in Korean history?,Royal tomb of the Silla Kingdom,76.67
+0089524,Gold Waist Belt from Geumgwanchong Tomb,Who was buried with the gold waist belt in the Geumgwanchong Tomb?,A noblewoman,90.0
+0090528,Gold Buckle from Seogam-ri,Where was the Gold Buckle from Seogam-ri discovered?,Gyeongju,80.0
+0090529,Gold Buckle from Seogam-ri,What is the significance of the Gold Buckle from Seogam-ri in Korean history?,It represents the Silla culture and craftsmanship.,80.0
+0090530,Gold Buckle from Seogam-ri,Who was the buckle likely made for?,A noble or royalty.,73.33
+0091534,Gold Earrings from Bubuchong Tomb,Where were these gold earrings found?,Bubuchong Tomb,83.33
+0091535,Gold Earrings from Bubuchong Tomb,What is the significance of gold earrings in the context of this heritage?,Symbol of wealth and status,66.67
+0091536,Gold Earrings from Bubuchong Tomb,Who was buried in the Bubuchong Tomb where these earrings were discovered?,A noblewoman,85.0
+0092540,Earthenware Funerary Objects in the Shape of a Warrior on Horseback,What is the function of these earthenware funerary objects?,Burial goods,76.67
+0092541,Earthenware Funerary Objects in the Shape of a Warrior on Horseback,In what culture or society were these funerary objects commonly used?,Ancient Chinese,66.67
+0092542,Earthenware Funerary Objects in the Shape of a Warrior on Horseback,What time period did these earthenware funerary objects originate from?,Ancient times,70.0
+0093546,Bronze Kundika with Silver-inlaid Willow and Waterfowl Design,What is the name of the heritage with the Bronze Kundika with Silver-inlaid Willow and Waterfowl Design?,Bronze Kundika,43.33
+0093547,Bronze Kundika with Silver-inlaid Willow and Waterfowl Design,What is the significance of the Kundika in Korean culture?,Ritual vessel,63.33
+0093548,Bronze Kundika with Silver-inlaid Willow and Waterfowl Design,Who likely used this Bronze Kundika in ancient Korea?,Buddhist monks,81.67
+0094552,White Porcelain Jar with Grape and Monkey Design in Underglaze Iron,What material is this heritage made of?,Porcelain,60.0
+0094553,White Porcelain Jar with Grape and Monkey Design in Underglaze Iron,What is the significance of the grape and monkey design on this heritage?,Symbolic representation,81.67
+0094554,White Porcelain Jar with Grape and Monkey Design in Underglaze Iron,How is the design on this heritage created?,In underglaze iron,80.0
+0095558,Celadon Melon-shaped Bottle,What type of ceramic is this Celadon Melon-shaped Bottle made of?,Porcelain,73.33
+0095559,Celadon Melon-shaped Bottle,In which country is Celadon pottery traditionally associated with?,Korea,66.67
+0095560,Celadon Melon-shaped Bottle,What was the purpose of Celadon pottery during the Goryeo Dynasty?,Used for royal and ceremonial purposes.,70.0
+0096564,Celadon Incense Burner with Openwork Auspicious-character Design Lid,What is the lid of this heritage decorated with?,Auspicious characters,81.67
+0096565,Celadon Incense Burner with Openwork Auspicious-character Design Lid,What type of burner is this heritage?,Incense,60.0
+0096566,Celadon Incense Burner with Openwork Auspicious-character Design Lid,What is the significance of the celadon material used in this heritage?,Highly valued for its color and texture,66.67
+0097570,Celadon Ewer in the Shape of a Turtle-dragon,Who is credited with popularizing the use of celadon ceramics during the Goryeo Dynasty?,Emperor Injong,53.33
+0097571,Celadon Ewer in the Shape of a Turtle-dragon,In what country was celadon pottery first developed?,China,50.0
+0097572,Celadon Ewer in the Shape of a Turtle-dragon,What is the significance of the turtle-dragon in Korean culture?,Symbolizes longevity and strength,66.67
+0098576,Celadon Prunus Vase with Incised Lotus and Scroll Design,What type of vase is this heritage?,Celadon,56.67
+0098577,Celadon Prunus Vase with Incised Lotus and Scroll Design,What is the decorative technique used on this heritage?,Incised,83.33
+0098578,Celadon Prunus Vase with Incised Lotus and Scroll Design,What does the design of lotus symbolize in this heritage?,Purity and enlightenment,66.67
+0099582,Celadon Jar with Inlaid Peony Design,What type of ceramic is this heritage made of?,Celadon,76.67
+0099583,Celadon Jar with Inlaid Peony Design,What flower motif is depicted on this heritage?,Peony,86.67
+0099584,Celadon Jar with Inlaid Peony Design,What culture or region is known for producing this type of heritage?,Korean,73.33
+0100588,East and West Three-story Stone Pagodas from Galhangsa Temple Site,Where is the Galhangsa Temple Site located?,Korea,53.33
+0100589,East and West Three-story Stone Pagodas from Galhangsa Temple Site,What is the significance of Choe Chi-won in relation to this heritage?,Composed the inscription,85.0
+0100590,East and West Three-story Stone Pagodas from Galhangsa Temple Site,How tall are the Three-story Stone Pagodas from Galhangsa Temple Site?,5.5 meters,76.67
+0101594,Seven-story Stone Pagoda from Namgyewon Temple Site,What is the name of the temple site where this seven-story stone pagoda is from?,Namgyewon Temple Site,86.67
+0101595,Seven-story Stone Pagoda from Namgyewon Temple Site,Who is believed to have built this seven-story stone pagoda?,Unified Silla Kingdom,80.0
+0101596,Seven-story Stone Pagoda from Namgyewon Temple Site,What is the significance of the inscription on the stele found at the site of this heritage?,Historical and cultural significance,63.33
+0102600,Stupa of State Preceptor Jigwang from Beopcheonsa Temple Site,Who is the Stupa dedicated to?,State Preceptor Jigwang,91.67
+0102601,Stupa of State Preceptor Jigwang from Beopcheonsa Temple Site,What is the name of the temple site where this Stupa is located?,Beopcheonsa Temple Site,83.33
+0102602,Stupa of State Preceptor Jigwang from Beopcheonsa Temple Site,What is the significance of the inscription on the stele?,It provides historical information.,63.33
+0103606,Stupa of State Preceptor Hongbeop from Jeongtosa Temple Site,Who was the State Preceptor associated with this Stupa?,Hongbeop,91.67
+0103607,Stupa of State Preceptor Hongbeop from Jeongtosa Temple Site,Where is the Jeongtosa Temple Site located?,Unknown,60.0
+0104611,Twin Lion Stone Lantern of Jungheungsanseong Fortress,Who built the Jungheungsanseong Fortress?,King Injo,66.67
+0104612,Twin Lion Stone Lantern of Jungheungsanseong Fortress,What is the significance of the Twin Lion Stone Lantern in Korean cultural heritage?,Symbol of protection and guidance,73.33
+0104613,Twin Lion Stone Lantern of Jungheungsanseong Fortress,What is the height of the Twin Lion Stone Lantern?,2.7 meters,73.33
+0105617,Stupa of Buddhist Monk Yeomgeo from Heungbeopsa Temple Site,Who was the Buddhist monk associated with this stupa?,Yeomgeo,91.67
+0105618,Stupa of Buddhist Monk Yeomgeo from Heungbeopsa Temple Site,Where is the Heungbeopsa Temple Site located?,South Korea,60.0
+0105619,Stupa of Buddhist Monk Yeomgeo from Heungbeopsa Temple Site,What is the significance of the inscription on the stele?,Honoring the monk Yeomgeo.,85.0
+0106623,Three-story Stone Pagoda in Beomhak-ri,Who is believed to have built the Three-story Stone Pagoda in Beomhak-ri?,Ven. Uisang,85.0
+0106624,Three-story Stone Pagoda in Beomhak-ri,What is the significance of the Three-story Stone Pagoda in Beomhak-ri in Korean history?,It is an important cultural heritage site.,66.67
+0106625,Three-story Stone Pagoda in Beomhak-ri,What is the approximate height of the Three-story Stone Pagoda in Beomhak-ri?,8.1 meters,76.67
+0107629,"Buddhist Stele of Amitabha with Inscription of ""Gyeyu Year""",What is the title of the inscription on the stele?,"""Gyeyu Year""",91.67
+0107630,"Buddhist Stele of Amitabha with Inscription of ""Gyeyu Year""",Who is the figure depicted on the stele?,Amitabha,88.33
+0107631,"Buddhist Stele of Amitabha with Inscription of ""Gyeyu Year""",What does the inscription on the stele signify?,It commemorates the completion of the main hall of Godalsa Temple.,85.0
+0108635,White Porcelain Jar with Grape Design in Underglaze Iron,What type of design is depicted on the White Porcelain Jar with Grape Design in Underglaze Iron?,Grape,83.33
+0108636,White Porcelain Jar with Grape Design in Underglaze Iron,What technique was used to create the design on this heritage?,Underglaze Iron,81.67
+0108637,White Porcelain Jar with Grape Design in Underglaze Iron,What is the significance of the grape design in Korean culture?,Symbol of abundance and prosperity,66.67
+0109641,"Buddhist Stele of Buddha Triad and a Thousand Buddhas with Inscription of ""Gyeyu Year""","Who is credited with creating the ""Gyeyu Year"" inscription on the stele?",Choe Chi-won,90.0
+0109642,"Buddhist Stele of Buddha Triad and a Thousand Buddhas with Inscription of ""Gyeyu Year""","What is the significance of the ""Gyeyu Year"" inscription on this heritage?",It marks the completion of construction,85.0
+0109643,"Buddhist Stele of Buddha Triad and a Thousand Buddhas with Inscription of ""Gyeyu Year""","What does the term ""Triad"" refer to in the title of this heritage?",Three main figures,73.33
+0110647,Grotto of Amitabha Buddha Triad,Who is credited with the creation of the Grotto of Amitabha Buddha Triad?,Korean monk Myo Cheong,85.0
+0110648,Grotto of Amitabha Buddha Triad,What is the significance of the Grotto of Amitabha Buddha Triad in Korean Buddhist art?,Represents the spread of Buddhism to Korea,63.33
+0110649,Grotto of Amitabha Buddha Triad,What is the name of the stele that contains an inscription about the Grotto of Amitabha Buddha Triad?,Godalsa Temple Stele,85.0
+0111653,Portrait of Yi Je-hyeon,Who is the subject of the portrait of Yi Je-hyeon?,Yi Je-hyeon,83.33
+0111654,Portrait of Yi Je-hyeon,What is the significance of Yi Je-hyeon in Korean history?,Confucian scholar,66.67
+0111655,Portrait of Yi Je-hyeon,Who is the artist responsible for creating this portrait?,Kim Hong-do,80.0
+0112659,Portrait of An Hyang,Who is the figure depicted in the portrait?,An Hyang,90.0
+0112660,Portrait of An Hyang,What is the name of the temple where this portrait is located?,Godalsa Temple,80.0
+0112661,Portrait of An Hyang,What is the significance of An Hyang in Korean history?,Scholar and Buddhist monk,53.33
+0113665,East and West Three-story Stone Pagodas at Gameunsa Temple Site,Where is the Gameunsa Temple Site located?,Unknown,80.0
+0113666,East and West Three-story Stone Pagodas at Gameunsa Temple Site,What is the significance of the East and West Three-story Stone Pagodas at Gameunsa Temple Site?,Unknown,90.0
+0113667,East and West Three-story Stone Pagodas at Gameunsa Temple Site,Who discovered the Gameunsa Temple Site?,Unknown,53.33
+0114671,Celadon Tube-shaped Bottle with Willow Design in Underglaze Iron,What material is this heritage made of?,Porcelain,63.33
+0114672,Celadon Tube-shaped Bottle with Willow Design in Underglaze Iron,What is the name of the technique used to create the design on this heritage?,Underglaze Iron,81.67
+0114673,Celadon Tube-shaped Bottle with Willow Design in Underglaze Iron,What is the shape of this heritage?,Tube-shaped,73.33
+0115677,Celadon Melon-shaped Bottle with Inlaid Peony and Chrysanthemum Design,What type of flowers are inlaid on this heritage?,Peony and chrysanthemum,86.67
+0115678,Celadon Melon-shaped Bottle with Inlaid Peony and Chrysanthemum Design,What type of design is featured on the Celadon Melon-shaped Bottle?,Inlaid design,73.33
+0115679,Celadon Melon-shaped Bottle with Inlaid Peony and Chrysanthemum Design,What is the significance of peony and chrysanthemum in Korean culture?,Symbolize wealth and nobility,66.67
+0116683,Celadon Bowl with Inlaid Scroll Design,What type of ceramic ware is this heritage made of?,Celadon,83.33
+0116684,Celadon Bowl with Inlaid Scroll Design,What technique was used to create the design on this heritage?,Inlay,81.67
+0116685,Celadon Bowl with Inlaid Scroll Design,What period is typically associated with the production of Celadon ware in Korea?,Goryeo period,70.0
+0117689,Celadon Gourd-shaped Ewer with Inlaid Peony Design,What is the theme of the peony design on this heritage?,Wealth and honor,80.0
+0117690,Celadon Gourd-shaped Ewer with Inlaid Peony Design,In what region was celadon pottery traditionally produced?,Korea,56.67
+0117691,Celadon Gourd-shaped Ewer with Inlaid Peony Design,What was the significance of peony flowers in Korean culture during the Goryeo period?,It symbolized wealth and honor.,66.67
+0118695,Iron Seated Vairocana Buddha of Borimsa Temple,Who is believed to have sculpted the Iron Seated Vairocana Buddha of Borimsa Temple?,Yeongi,85.0
+0118696,Iron Seated Vairocana Buddha of Borimsa Temple,What is the significance of Vairocana Buddha in Buddhism?,Representing the cosmic Buddha and the essence of all things.,53.33
+0118697,Iron Seated Vairocana Buddha of Borimsa Temple,What is the historical importance of the Borimsa Temple in Korea?,"Associated with Choe Chi-won, a prominent figure in Korean history.",53.33
+0119701,Gilt-bronze Pensive Maitreya Bodhisattva,Who is the figure represented by this heritage?,Maitreya Bodhisattva,80.0
+0119702,Gilt-bronze Pensive Maitreya Bodhisattva,Where was this heritage discovered?,Godalsa Temple site,85.0
+0119703,Gilt-bronze Pensive Maitreya Bodhisattva,What is the significance of the inscription on the stele?,Honoring the deceased.,40.0
+0120707,"Gilt-bronze Standing Buddha with Inscription of ""the Seventh Yeonga Year""",Who created this heritage?,Unknown,53.33
+0120708,"Gilt-bronze Standing Buddha with Inscription of ""the Seventh Yeonga Year""",What is the significance of the inscription on this heritage?,Represents the date of the statue's creation,86.67
+0120709,"Gilt-bronze Standing Buddha with Inscription of ""the Seventh Yeonga Year""",Where is this heritage currently located?,Unknown,53.33
+0121713,Bronze Bell of Yongjusa Temple,Who is believed to have made this heritage?,Artisans from the Unified Silla Period,63.33
+0121714,Bronze Bell of Yongjusa Temple,What does the inscription on the bell describe?,Prayers for the nation's peace and prosperity,85.0
+0121715,Bronze Bell of Yongjusa Temple,Where is the Bronze Bell of Yongjusa Temple currently displayed?,National Museum of Korea,80.0
+0122719,Hahoe Masks and Byeongsan Masks of Andong,What is the significance of the Hahoe Masks and Byeongsan Masks in Korean culture?,Used in traditional mask dances,80.0
+0122720,Hahoe Masks and Byeongsan Masks of Andong,Where can these masks be found on display?,Andong Folk Museum,80.0
+0122721,Hahoe Masks and Byeongsan Masks of Andong,How old are the Hahoe Masks and Byeongsan Masks believed to be?,Over 600 years old,85.0
+0123725,Three-story Stone Pagoda at Jinjeonsa Temple Site,Who is believed to have built the Three-story Stone Pagoda at Jinjeonsa Temple Site?,Choe Chi-won,80.0
+0123726,Three-story Stone Pagoda at Jinjeonsa Temple Site,What is the significance of the inscription on the stele at the Jinjeonsa Temple Site?,It provides information about the construction of the pagoda.,80.0
+0123727,Three-story Stone Pagoda at Jinjeonsa Temple Site,What is the name of the temple site where this heritage is located?,Jinjeonsa Temple Site,76.67
+0124731,Reliquaries from the Five-story Stone Pagoda in Wanggung-ri,Who discovered the relics in the pagoda?,Choe Chi-won,81.67
+0124732,Reliquaries from the Five-story Stone Pagoda in Wanggung-ri,What is the significance of the relics found in the pagoda?,They are believed to be from the Buddha.,80.0
+0125736,Stone Seated Bodhisattva from Hansongsa Temple Site,What is the name of the temple site where this heritage was found?,Hansongsa Temple Site,86.67
+0125737,Stone Seated Bodhisattva from Hansongsa Temple Site,Who is believed to have carved this heritage?,An Gyeon,56.67
+0125738,Stone Seated Bodhisattva from Hansongsa Temple Site,What is the significance of Bodhisattvas in Buddhist culture?,Enlightened beings who postpone nirvana to help others.,53.33
+0126742,Green-glazed Burial Urn (Granite Case),What is the purpose of this burial urn?,Holding ashes,66.67
+0126743,Green-glazed Burial Urn (Granite Case),What is the significance of green-glazed burial urns in Korean culture?,Symbol of longevity and rebirth,66.67
+0126744,Green-glazed Burial Urn (Granite Case),Who was traditionally buried in such green-glazed burial urns in Korea?,Nobility and royalty,85.0
+0127748,Reliquaries from the Three-story Stone Pagoda of Bulguksa Temple,What is the name of the temple where these reliquaries are from?,Bulguksa Temple,83.33
+0127749,Reliquaries from the Three-story Stone Pagoda of Bulguksa Temple,Who is believed to have built the Three-story Stone Pagoda of Bulguksa Temple?,Kim Dae-seong,90.0
+0127750,Reliquaries from the Three-story Stone Pagoda of Bulguksa Temple,What is the significance of the Three-story Stone Pagoda within Bulguksa Temple?,"It serves as a container for sarira, or relics of Buddha.",85.0
+0128754,Gilt-bronze Standing Avalokitesvara Bodhisattva from Samyang-dong,Where is the Gilt-bronze Standing Avalokitesvara Bodhisattva from?,Samyang-dong,76.67
+0128755,Gilt-bronze Standing Avalokitesvara Bodhisattva from Samyang-dong,Who is believed to have crafted this heritage?,An unknown artisan,56.67
+0128756,Gilt-bronze Standing Avalokitesvara Bodhisattva from Samyang-dong,What is the significance of Avalokitesvara Bodhisattva in Buddhism?,Compassion and mercy,50.0
+0129760,Gilt-bronze Standing Avalokitesvara Bodhisattva,Who is depicted in the heritage?,Avalokitesvara Bodhisattva,80.0
+0129761,Gilt-bronze Standing Avalokitesvara Bodhisattva,What is the approximate height of the heritage?,40 cm,53.33
+0129762,Gilt-bronze Standing Avalokitesvara Bodhisattva,Where was this heritage discovered?,Korea,56.67
+0130766,Gilt-bronze Standing Bodhisattva,Who is the figure depicted in this heritage?,Bodhisattva,66.67
+0130767,Gilt-bronze Standing Bodhisattva,What is the significance of the lotus flower in Buddhist iconography?,Symbol of purity and enlightenment,56.67
+0130768,Gilt-bronze Standing Bodhisattva,Where was this heritage discovered?,Korea,56.67
+0131772,Five-story Stone Pagoda in Jukjang-ri,Who built the Five-story Stone Pagoda in Jukjang-ri?,Silla Kingdom,76.67
+0131773,Five-story Stone Pagoda in Jukjang-ri,What is the significance of the Godalsa Temple in Korean history?,It is a major Buddhist temple site.,33.33
+0131774,Five-story Stone Pagoda in Jukjang-ri,How tall is the Five-story Stone Pagoda in Jukjang-ri?,Unknown,76.67
+0132778,Family Register of Hwaryeong-bu Prefecture Written in the Late Goryeo Dynasty,In which dynasty was the Family Register of Hwaryeong-bu Prefecture written?,Goryeo,91.67
+0132779,Family Register of Hwaryeong-bu Prefecture Written in the Late Goryeo Dynasty,What is the content of the Family Register of Hwaryeong-bu Prefecture?,Genealogical records,86.67
+0132780,Family Register of Hwaryeong-bu Prefecture Written in the Late Goryeo Dynasty,Who was the author of the Family Register of Hwaryeong-bu Prefecture?,Unknown,73.33
+0133784,Jingbirok (The Book of Correction),Who wrote 'Jingbirok (The Book of Corrections)'?,Yu Seong-ryong,91.67
+0133785,Jingbirok (The Book of Correction),What is the significance of 'Jingbirok (The Book of Corrections)' in Korean history?,It is a record of the Japanese invasions of Korea in the late 16th century.,85.0
+0133786,Jingbirok (The Book of Correction),In what year was 'Jingbirok (The Book of Corrections)' completed?,1612,91.67
+0134790,Celadon Gourd-shaped Ewer with Lotus Design in Underglaze Copper,What is the shape of this heritage?,Gourd-shaped,83.33
+0134791,Celadon Gourd-shaped Ewer with Lotus Design in Underglaze Copper,What is the technique used to create the design on this heritage?,Underglaze,80.0
+0134792,Celadon Gourd-shaped Ewer with Lotus Design in Underglaze Copper,What is the cultural significance of lotus in the context of this heritage?,Symbol of purity and enlightenment,66.67
+0135796,Gilt-bronze Standing Bodhisattva Triad,Who is believed to be the central figure in this heritage?,Amitabha Buddha,80.0
+0135797,Gilt-bronze Standing Bodhisattva Triad,Where was this heritage discovered?,Korea,56.67
+0135798,Gilt-bronze Standing Bodhisattva Triad,What is the significance of the standing bodhisattva in Buddhist art?,Represents compassion and spiritual enlightenment,53.33
+0136802,Album of Genre Paintings by Sin Yun-bok,Who is the artist behind the 'Album of Genre Paintings by Sin Yun-bok'?,Sin Yun-bok,93.33
+0136803,Album of Genre Paintings by Sin Yun-bok,What is the cultural significance of genre paintings in Korean art history?,Depiction of everyday life,70.0
+0136804,Album of Genre Paintings by Sin Yun-bok,In what time period did Sin Yun-bok create the 'Album of Genre Paintings'?,Joseon Dynasty,80.0
+0137808,Gilt-bronze Miniature Buddhist Flagpole with Dragon Finial,What is the purpose of the Buddhist flagpole?,Ritualistic significance,63.33
+0137809,Gilt-bronze Miniature Buddhist Flagpole with Dragon Finial,Who is believed to have made this miniature Buddhist flagpole?,Skilled artisan,50.0
+0137810,Gilt-bronze Miniature Buddhist Flagpole with Dragon Finial,What is the significance of the dragon finial on this heritage?,Symbol of power and strength,73.33
+0138814,Bronze Artifacts from Bisan-dong,Where were the Bronze Artifacts from Bisan-dong discovered?,South Korea,60.0
+0138815,Bronze Artifacts from Bisan-dong,Who were the artifacts believed to have belonged to in ancient times?,Members of the elite class,63.33
+0138816,Bronze Artifacts from Bisan-dong,What is the significance of the artifacts from Bisan-dong in understanding ancient Korean society?,They provide insights into the social hierarchy and cultural practices of the time.,78.33
+0139820,Bronze Artifacts from Bisan-dong,Where were the Bronze Artifacts from Bisan-dong discovered?,South Korea,63.33
+0139821,Bronze Artifacts from Bisan-dong,Who excavated the site where the artifacts were found?,Archaeologists,53.33
+0139822,Bronze Artifacts from Bisan-dong,What is the significance of these artifacts in Korean history?,Cultural heritage,60.0
+0140826,Gold Crown and Ornaments from Goryeong (Presumed),Where is Goryeong located?,Korea,43.33
+0140827,Gold Crown and Ornaments from Goryeong (Presumed),Who is believed to have owned this gold crown and ornaments?,King Gyeongae,85.0
+0140828,Gold Crown and Ornaments from Goryeong (Presumed),What is the significance of Goryeong in Korean history?,It was a major cultural center.,46.67
+0141832,Folding Screen of Gunseondo (Daoist Immortals) by Kim Hong-do,Who is the artist of this Folding Screen?,Kim Hong-do,83.33
+0141833,Folding Screen of Gunseondo (Daoist Immortals) by Kim Hong-do,What is the theme depicted on the Folding Screen of Gunseondo?,Daoist Immortals,91.67
+0141834,Folding Screen of Gunseondo (Daoist Immortals) by Kim Hong-do,In what year was the Folding Screen of Gunseondo created?,18th century,80.0
+0142838,Bronze Mirror with Inlaid Mother-of-pearl Floral Design,What is the main material of this heritage?,Bronze,73.33
+0142839,Bronze Mirror with Inlaid Mother-of-pearl Floral Design,What technique was used to create the floral design on this heritage?,Inlay,85.0
+0142840,Bronze Mirror with Inlaid Mother-of-pearl Floral Design,What type of design is featured on this heritage?,Floral,73.33
+0143844,Bronze Mirror with Fine Linear Design,Who is believed to have owned this bronze mirror?,Wealthy individual,56.67
+0143845,Bronze Mirror with Fine Linear Design,What time period is this bronze mirror from?,Ancient times,53.33
+0143846,Bronze Mirror with Fine Linear Design,What was the purpose of bronze mirrors like this in ancient cultures?,Reflective tool for grooming and self-admiration,53.33
+0144850,Dongguk jeongun (Standard Rhymes of the Eastern State),Who compiled the 'Dongguk jeongun (Standard Rhymes of the Eastern State)'?,Choe Chi-won,91.67
+0144851,Dongguk jeongun (Standard Rhymes of the Eastern State),Where is the stele of the 'Dongguk jeongun' currently located?,South Korea,50.0
+0144852,Dongguk jeongun (Standard Rhymes of the Eastern State),What is the literary work inscribed on the stele about?,Korean phonology and rhymes,85.0
+0145856,Bronze Artifacts from Daegok-ri,Where were these Bronze Artifacts from Daegok-ri discovered?,South Korea,63.33
+0145857,Bronze Artifacts from Daegok-ri,Who were the artifacts from Daegok-ri believed to be used by?,Ancient elites,73.33
+0145858,Bronze Artifacts from Daegok-ri,What is the estimated age of the Bronze Artifacts from Daegok-ri?,"1,500 years",88.33
+0146862,Rock-carved Seated Buddha in Wolchulsan Mountain,Who is believed to have carved the rock sculpture of the Buddha?,Monk Cheolgam,85.0
+0146863,Rock-carved Seated Buddha in Wolchulsan Mountain,What is the significance of the Rock-carved Seated Buddha in Wolchulsan Mountain in Korean history?,Represents the spread of Buddhism in the region,76.67
+0146864,Rock-carved Seated Buddha in Wolchulsan Mountain,What is the approximate height of the Buddha sculpture in Wolchulsan Mountain?,4 meters,76.67
+0147868,Bronze Brazier with Demon Face Decoration,Who is credited with creating the demon face decoration on the bronze brazier?,Unknown,63.33
+0147869,Bronze Brazier with Demon Face Decoration,What time period does this heritage belong to?,Ancient,63.33
+0147870,Bronze Brazier with Demon Face Decoration,What was the purpose of using bronze as the material for this heritage?,Decorative and functional.,60.0
+0148874,Bronze Rattles from Nonsan (Presumed),Where were the Bronze Rattles from Nonsan discovered?,Korea,60.0
+0148875,Bronze Rattles from Nonsan (Presumed),What material were the Bronze Rattles from Nonsan made of?,Bronze,56.67
+0148876,Bronze Rattles from Nonsan (Presumed),What was the purpose of Bronze Rattles in ancient Korea?,Used in rituals,78.33
+0149880,Petroglyphs of Cheonjeon-ri,Who is believed to have created the petroglyphs at Cheonjeon-ri?,Prehistoric inhabitants,76.67
+0149881,Petroglyphs of Cheonjeon-ri,What is the significance of Cheonjeon-ri in Korean history and culture?,It is a major archaeological site,66.67
+0149882,Petroglyphs of Cheonjeon-ri,How many petroglyphs are estimated to be at Cheonjeon-ri?,"Over 1,000",85.0
+0150886,Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories),Who compiled the 'Essentials of Seventeen Dynastic Histories'?,Choe Chi-won,91.67
+0150887,Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories),What is the content of 'Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories)' about?,Dynastic histories,80.0
+0150888,Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories),When was 'Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories)' created?,Unknown,91.67
+0151892,Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories),Who compiled the 'Essentials of Seventeen Dynastic Histories'?,Choe Chi-won,91.67
+0151893,Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories),What is the significance of the 'Essentials of Seventeen Dynastic Histories' in Korean history?,Compilation of historical records,80.0
+0151894,Sipchil sachan gogeum tongyo (Essentials of Seventeen Dynastic Histories),How many different dynasties are covered in the 'Essentials of Seventeen Dynastic Histories'?,17,91.67
+0152898,Dongnae seonsaeng gyojeong buksa sangjeol (Commentary on the History of the Northern Dynasties),Who was the author of 'Dongnae seonsaeng gyojeong buksa sangjeol'?,Choe Chi-won,91.67
+0152899,Dongnae seonsaeng gyojeong buksa sangjeol (Commentary on the History of the Northern Dynasties),What is the purpose of the stele in this heritage?,To commemorate the construction of the Godalsa Temple,43.33
+0152900,Dongnae seonsaeng gyojeong buksa sangjeol (Commentary on the History of the Northern Dynasties),What historical period does the 'Commentary on the History of the Northern Dynasties' cover?,Northern Dynasties period,90.0
+0153904,Dongnae seonsaeng gyojeong buksa sangjeol (Commentary on the History of the Northern Dynasties),Who is believed to have engraved the characters on the stele of this heritage?,Choe Chi-won,53.33
+0153905,Dongnae seonsaeng gyojeong buksa sangjeol (Commentary on the History of the Northern Dynasties),What is the approximate size of the stele of this heritage?,2.5 meters,43.33
+0153906,Dongnae seonsaeng gyojeong buksa sangjeol (Commentary on the History of the Northern Dynasties),In what year was this heritage created?,633 AD,90.0
+0154910,Songjo pyojeon chongnyu (Collection of Appeals and Letters to the Emperors of the Song Dynasty),Who compiled the 'Collection of Appeals and Letters to the Emperors of the Song Dynasty'?,Wang Anshi,90.0
+0154911,Songjo pyojeon chongnyu (Collection of Appeals and Letters to the Emperors of the Song Dynasty),What is the significance of this heritage in Chinese literature?,It reflects the political and social conditions of the time.,53.33
+0154912,Songjo pyojeon chongnyu (Collection of Appeals and Letters to the Emperors of the Song Dynasty),In what language are the appeals and letters in this heritage written?,Chinese,83.33
+0155916,Joseon wangjo sillok (Annals of the Joseon Dynasty),What is the significance of the 'Joseon wangjo sillok' in Korean history?,Official annals of the Joseon Dynasty,90.0
+0155917,Joseon wangjo sillok (Annals of the Joseon Dynasty),Who was responsible for compiling the 'Joseon wangjo sillok'?,Royal secretariat and the Board of Astronomy,83.33
+0155918,Joseon wangjo sillok (Annals of the Joseon Dynasty),How many volumes make up the complete 'Joseon wangjo sillok'?,"1,893 volumes",90.0
+0156922,Joseon wangjo sillok (Annals of the Joseon Dynasty),What is the title of the official records of the Joseon Dynasty?,Joseon wangjo sillok,100.0
+0156923,Joseon wangjo sillok (Annals of the Joseon Dynasty),Who was responsible for compiling the Annals of the Joseon Dynasty?,King Sejong,85.0
+0156924,Joseon wangjo sillok (Annals of the Joseon Dynasty),In what language were the Annals of the Joseon Dynasty written?,Classical Chinese,81.67
+0157928,Joseon wangjo sillok (Annals of the Joseon Dynasty),Who was the ruler of the Joseon Dynasty during the compilation of this heritage?,King Sejong,73.33
+0157929,Joseon wangjo sillok (Annals of the Joseon Dynasty),What is the significance of the 'Joseon wangjo sillok' in Korean history?,It is the official annals of the Joseon Dynasty.,90.0
+0157930,Joseon wangjo sillok (Annals of the Joseon Dynasty),How long did the compilation of the 'Joseon wangjo sillok' take?,Over 200 years.,81.67
+0158934,Joseon wangjo sillok (Annals of the Joseon Dynasty),Who established the 'Joseon wangjo sillok'?,King Sejong,85.0
+0158935,Joseon wangjo sillok (Annals of the Joseon Dynasty),What is the purpose of the 'Joseon wangjo sillok'?,Record history,80.0
+0158936,Joseon wangjo sillok (Annals of the Joseon Dynasty),In what language are the annals written?,Classical Chinese,86.67
+0159940,Joseon wangjo sillok (Annals of the Joseon Dynasty),Who ordered the compilation of the Joseon wangjo sillok?,King Sejong,90.0
+0159941,Joseon wangjo sillok (Annals of the Joseon Dynasty),What is the significance of the Joseon wangjo sillok in Korean history?,It is the official record of the Joseon Dynasty.,85.0
+0159942,Joseon wangjo sillok (Annals of the Joseon Dynasty),How many volumes are included in the complete set of the Joseon wangjo sillok?,"1,893 volumes.",90.0
+0160946,Joseon wangjo sillok (Annals of the Joseon Dynasty),Who compiled the 'Joseon wangjo sillok'?,King Sejong,86.67
+0160947,Joseon wangjo sillok (Annals of the Joseon Dynasty),What is the significance of the 'Joseon wangjo sillok' in Korean history?,It is the official record of the Joseon Dynasty.,90.0
+0160948,Joseon wangjo sillok (Annals of the Joseon Dynasty),In what language are the annals written?,Classical Chinese,90.0
+0161952,Bibyeonsa deungnok (Records of the Border Defense Council),Who is credited with writing the 'Bibyeonsa deungnok (Records of the Border Defense Council)'?,Choe Chi-won,85.0
+0161953,Bibyeonsa deungnok (Records of the Border Defense Council),What is the significance of the Godalsa Temple in Korean history?,It was a major temple in the Silla period.,36.67
+0161954,Bibyeonsa deungnok (Records of the Border Defense Council),What is the approximate date range of the historical events recorded in the 'Bibyeonsa deungnok'?,7th century AD,85.0
+0162958,Ilseongnok (Daily Records of the Royal Court and Important Officials),What is the title of this heritage?,Ilseongnok,76.67
+0162959,Ilseongnok (Daily Records of the Royal Court and Important Officials),Who was the author of 'Ilseongnok (Daily Records of the Royal Court and Important Officials)'?,Choe Chi-won,63.33
+0162960,Ilseongnok (Daily Records of the Royal Court and Important Officials),What historical records are contained in 'Ilseongnok'?,Daily records of the royal court and important officials.,91.67
+0163964,Gold Diadem Ornaments of King Muryeong,Who was the owner of the Gold Diadem Ornaments of King Muryeong?,King Muryeong,91.67
+0163965,Gold Diadem Ornaments of King Muryeong,Where were the Gold Diadem Ornaments of King Muryeong discovered?,South Korea,73.33
+0163966,Gold Diadem Ornaments of King Muryeong,What was the occupation of King Muryeong?,King,53.33
+0164970,Gold Diadem Ornaments of the Queen Consort of King Muryeong,Who was the Queen Consort of King Muryeong?,Queen Seondeok,53.33
+0164971,Gold Diadem Ornaments of the Queen Consort of King Muryeong,In which country were the Gold Diadem Ornaments discovered?,South Korea,73.33
+0164972,Gold Diadem Ornaments of the Queen Consort of King Muryeong,What is the significance of these ornaments in Korean history?,Royal attire symbols,66.67
+0165976,Gold Earrings of King Muryeong,Who was the owner of the Gold Earrings of King Muryeong?,King Muryeong,90.0
+0165977,Gold Earrings of King Muryeong,Where were these earrings discovered?,Tomb of King Muryeong,90.0
+0165978,Gold Earrings of King Muryeong,What is the significance of these earrings in Korean history?,They are important artifacts from the Baekje period.,66.67
+0166982,Gold Earrings of the Queen Consort of King Muryeong,Who was the Queen Consort of King Muryeong?,Unknown,60.0
+0166983,Gold Earrings of the Queen Consort of King Muryeong,What period does the reign of King Muryeong belong to?,Baekje period,66.67
+0166984,Gold Earrings of the Queen Consort of King Muryeong,Where are these gold earrings currently displayed?,National Museum of Korea,66.67
+0167988,Gold Necklaces of the Queen Consort of King Muryeong,Who was the King associated with the Queen Consort of King Muryeong?,King Muryeong,60.0
+0167989,Gold Necklaces of the Queen Consort of King Muryeong,What was the name of the Queen Consort of King Muryeong?,Queen Seondeok,53.33
+0167990,Gold Necklaces of the Queen Consort of King Muryeong,Where is this heritage currently housed?,Korea National Treasure No. 78,70.0
+0168994,Gold Hairpin of King Muryeong,Who was the owner of the Gold Hairpin of King Muryeong?,King Muryeong,91.67
+0168995,Gold Hairpin of King Muryeong,What period does the Gold Hairpin of King Muryeong date back to?,Baekje period,90.0
+0168996,Gold Hairpin of King Muryeong,Where was the Gold Hairpin of King Muryeong discovered?,Tomb of King Muryeong,90.0
+01691000,Silver Bracelets of the Queen Consort of King Muryeong,Who was the Queen Consort of King Muryeong?,Queen Seonhwa,60.0
+01691001,Silver Bracelets of the Queen Consort of King Muryeong,In which country were the Silver Bracelets discovered?,South Korea,60.0
+01691002,Silver Bracelets of the Queen Consort of King Muryeong,What period does King Muryeong's reign belong to?,Baekje period,66.67
+01701006,Bronze Mirrors from the Tomb of King Muryeong,Who was buried in the tomb where these mirrors were found?,King Muryeong,91.67
+01701007,Bronze Mirrors from the Tomb of King Muryeong,What was King Muryeong's reign period?,501-523 AD,66.67
+01701008,Bronze Mirrors from the Tomb of King Muryeong,Where is the tomb of King Muryeong located?,South Korea,73.33
+01711012,Stone Guardian from the Tomb of King Muryeong,Who was King Muryeong?,King of Baekje,70.0
+01711013,Stone Guardian from the Tomb of King Muryeong,Where was the tomb of King Muryeong located?,South Korea,76.67
+01711014,Stone Guardian from the Tomb of King Muryeong,What does the inscription on the stele reveal about the heritage?,Historical significance,60.0
+01721018,Buried Memorial Tablets from the Tomb of King Muryeong,Who was the king associated with this tomb?,King Muryeong,96.67
+01721019,Buried Memorial Tablets from the Tomb of King Muryeong,What type of tomb was this heritage found in?,Underground,56.67
+01721020,Buried Memorial Tablets from the Tomb of King Muryeong,Where was this heritage discovered?,South Korea,56.67
+01731024,Headrest of the Queen Consort of King Muryeong,Who was the Queen Consort of King Muryeong?,Queen Seondeok,56.67
+01731025,Headrest of the Queen Consort of King Muryeong,Where was this headrest discovered?,Baekje royal tomb,85.0
+01731026,Headrest of the Queen Consort of King Muryeong,What is the significance of the inscription on the headrest?,It mentions the title of the queen and her ancestry.,85.0
+01741030,Footrest of King Muryeong,Who was the King associated with this footrest?,King Muryeong,90.0
+01741031,Footrest of King Muryeong,Where was this footrest discovered?,In the tomb of King Muryeong,86.67
+01741032,Footrest of King Muryeong,What was the occupation of King Muryeong?,King,46.67
+01751036,White Porcelain Jar with Plum and Bamboo Design in Underglaze Iron,What is the technique used to create the design on this heritage?,Underglaze iron,81.67
+01751037,White Porcelain Jar with Plum and Bamboo Design in Underglaze Iron,What is the significance of plum and bamboo in East Asian culture?,Symbolize resilience and perseverance,66.67
+01751038,White Porcelain Jar with Plum and Bamboo Design in Underglaze Iron,What is the historical significance of white porcelain in Asian art?,Associated with purity and elegance,53.33
+01761042,Celadon Ewer in the Shape of a Human Figure,What is the shape of the figure depicted in this heritage?,Human,80.0
+01761043,Celadon Ewer in the Shape of a Human Figure,In what country was celadon pottery first produced?,Korea,50.0
+01761044,Celadon Ewer in the Shape of a Human Figure,What was the purpose of celadon ewers in ancient times?,Used for pouring liquids.,53.33
+01771048,Celadon Bottle with Bamboo Design in Relief,What material is this heritage made of?,Ceramic,56.67
+01771049,Celadon Bottle with Bamboo Design in Relief,Where was Celadon pottery traditionally produced?,Korea,63.33
+01771050,Celadon Bottle with Bamboo Design in Relief,What technique was used to create the design in relief on this heritage?,Carving,81.67
+01781054,White Porcelain Lidded Jar with Plum,Who is believed to have created this White Porcelain Lidded Jar with Plum?,Unknown,60.0
+01781055,White Porcelain Lidded Jar with Plum,What is the significance of plums in Korean culture?,Symbol of resilience and perseverance,66.67
+01781056,White Porcelain Lidded Jar with Plum,What period does this heritage belong to?,Joseon Dynasty,70.0
+01791060,Bronze Lidded Bowl with Silver-inlaid Phoenix Design,What type of design is inlaid on the Bronze Lidded Bowl?,Phoenix,83.33
+01791061,Bronze Lidded Bowl with Silver-inlaid Phoenix Design,What is the main material used to make this heritage?,Bronze,66.67
+01791062,Bronze Lidded Bowl with Silver-inlaid Phoenix Design,What is the purpose of the lid on the Bronze Lidded Bowl?,Covering the bowl's contents,46.67
+01801066,Artifacts Excavated from the Tomb of Lady Jeong,Who was Lady Jeong?,Noblewoman,56.67
+01801067,Artifacts Excavated from the Tomb of Lady Jeong,What was the approximate time period when Lady Jeong lived?,Goryeo Dynasty,80.0
+01811071,Celadon Seated Arhat with Paste-on-paste White Dot Design,What type of design is featured on this heritage's body?,White dot,78.33
+01811072,Celadon Seated Arhat with Paste-on-paste White Dot Design,What is the historical significance of the seated Arhat in Korean culture?,Represents Buddhist enlightenment,60.0
+01811073,Celadon Seated Arhat with Paste-on-paste White Dot Design,Who is known for their expertise in creating celadon pottery in Korea?,Choe Chi-won,40.0
+01821077,Gilt-bronze Candlesticks with Inlaid Crystal Ornaments,What type of decorative technique was used on the candlesticks?,Inlaid,80.0
+01821078,Gilt-bronze Candlesticks with Inlaid Crystal Ornaments,What is the significance of crystal ornaments in this heritage?,Decorative purposes,66.67
+01821079,Gilt-bronze Candlesticks with Inlaid Crystal Ornaments,Who might have used these candlesticks in the past?,Wealthy individuals or religious institutions,60.0
+01831083,White Porcelain Bowl with Inlaid Lotus and Scroll Design,What materials were used to create this heritage?,Porcelain,66.67
+01831084,White Porcelain Bowl with Inlaid Lotus and Scroll Design,What cultural significance do lotus flowers hold in the context of this heritage?,Purity and enlightenment,78.33
+01831085,White Porcelain Bowl with Inlaid Lotus and Scroll Design,What dynasty is known for producing white porcelain with intricate designs like the one on this heritage?,Joseon Dynasty,81.67
+01841089,"White Porcelain Jar with Pine and Bamboo Design and Inscription of ""the Second Hongchi Year"" in Underglaze Cobalt Blue",What is the inscription on this heritage?,"""the Second Hongchi Year""",91.67
+01841090,"White Porcelain Jar with Pine and Bamboo Design and Inscription of ""the Second Hongchi Year"" in Underglaze Cobalt Blue",What material is this heritage made of?,Porcelain,60.0
+01841091,"White Porcelain Jar with Pine and Bamboo Design and Inscription of ""the Second Hongchi Year"" in Underglaze Cobalt Blue",Who is believed to have created this heritage?,Unknown,63.33
+01851095,Buncheong Placenta Jars with Stamped Chrysanthemum Design,What is the name of the design stamped on the Buncheong Placenta Jars?,Chrysanthemum,86.67
+01851096,Buncheong Placenta Jars with Stamped Chrysanthemum Design,What is the significance of the chrysanthemum design in Korean culture?,Longevity and immortality,66.67
+01851097,Buncheong Placenta Jars with Stamped Chrysanthemum Design,What period in Korean history are Buncheong Placenta Jars associated with?,Joseon Dynasty,86.67
+01861101,Buncheong Flat Bottle with Incised Fish Design,Who is believed to have made this Buncheong Flat Bottle with Incised Fish Design?,Unknown,53.33
+01861102,Buncheong Flat Bottle with Incised Fish Design,What material was used to create this heritage?,Ceramic,56.67
+01861103,Buncheong Flat Bottle with Incised Fish Design,In which country was Buncheong pottery traditionally produced?,Korea,66.67
+01871107,Buncheong Flat Bottle with Sgraffito Lotus and Fish Design,What technique was used to create the design on the Buncheong Flat Bottle?,Sgraffito,81.67
+01871108,Buncheong Flat Bottle with Sgraffito Lotus and Fish Design,What is the significance of the lotus and fish design in Korean culture?,Symbolizes purity and abundance,66.67
+01871109,Buncheong Flat Bottle with Sgraffito Lotus and Fish Design,What period does Buncheong ware date back to in Korean history?,14th-15th century,70.0
+01881113,Sehando (Winter Scene) by Kim Jeong-hui,Who is the artist of this heritage?,Kim Jeong-hui,80.0
+01881114,Sehando (Winter Scene) by Kim Jeong-hui,What is the title of this heritage?,Sehando (Winter Scene),80.0
+01881115,Sehando (Winter Scene) by Kim Jeong-hui,What is the artistic style of this heritage?,Korean literati painting,76.67
+01891119,Red Certificate Issued to Jang Yang-su,Who was the recipient of the Red Certificate?,Jang Yang-su,86.67
+01891120,Red Certificate Issued to Jang Yang-su,What is the significance of the Red Certificate in Korean history?,Tribute to the emperor,43.33
+01891121,Red Certificate Issued to Jang Yang-su,What role did Jang Yang-su play during the Goryeo dynasty?,Minister,56.67
+01901125,Gilt-bronze Standing Buddha from Seonsan-eup,Where was the Gilt-bronze Standing Buddha from Seonsan-eup discovered?,Godalsa Temple site,90.0
+01901126,Gilt-bronze Standing Buddha from Seonsan-eup,Who is believed to have built the Godalsa Temple?,Monk Yeogu,46.67
+01901127,Gilt-bronze Standing Buddha from Seonsan-eup,What is the significance of the Gilt-bronze Standing Buddha from Seonsan-eup in Korean art history?,One of the earliest examples of standing Buddha statues in Korea.,85.0
+01911131,Gilt-bronze Standing Bodhisattva from Seonsan-eup,Where was the Gilt-bronze Standing Bodhisattva from Seonsan-eup discovered?,Seonsan-eup,80.0
+01911132,Gilt-bronze Standing Bodhisattva from Seonsan-eup,Who is believed to have crafted this heritage?,Unknown,63.33
+01911133,Gilt-bronze Standing Bodhisattva from Seonsan-eup,What is the significance of the Bodhisattva figure in Buddhism?,Represents enlightenment and compassion.,53.33
+01921137,Gilt-bronze Standing Bodhisattva from Seonsan-eup,Where was the Gilt-bronze Standing Bodhisattva from Seonsan-eup discovered?,Seonsan-eup,80.0
+01921138,Gilt-bronze Standing Bodhisattva from Seonsan-eup,Who is believed to be the sculptor of this heritage?,Unknown,53.33
+01921139,Gilt-bronze Standing Bodhisattva from Seonsan-eup,What is the significance of the Bodhisattva figure in Buddhist art?,Represents enlightenment and compassion,50.0
+01931143,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Silver on Oak Paper,What is the name of the sutra that is transcribed on this heritage?,Saddharmapundarika Sutra (The Lotus Sutra),96.67
+01931144,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Silver on Oak Paper,What is the name of the temple where this heritage is located?,Godalsa Temple,60.0
+01931145,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Silver on Oak Paper,What language was used to transcribe the Lotus Sutra on this heritage?,Silver,50.0
+01941149,Gilt-bronze Standing Buddha from Sinhwa-ri,Who discovered the Gilt-bronze Standing Buddha from Sinhwa-ri?,Lee Seok-ho,73.33
+01941150,Gilt-bronze Standing Buddha from Sinhwa-ri,What is the significance of the inscription on the stele found with the heritage?,It provides historical information,53.33
+01941151,Gilt-bronze Standing Buddha from Sinhwa-ri,What is the estimated height of the Gilt-bronze Standing Buddha from Sinhwa-ri?,72.7 cm,83.33
+01951155,Five-story Stone Brick Pagoda in Sanhae-ri,Where is the Five-story Stone Brick Pagoda located?,Sanhae-ri,76.67
+01951156,Five-story Stone Brick Pagoda in Sanhae-ri,Who is believed to have built the Godalsa Temple?,Choe Chi-won,50.0
+01951157,Five-story Stone Brick Pagoda in Sanhae-ri,What is the significance of the Five-story Stone Brick Pagoda in Sanhae-ri?,Cultural heritage site,66.67
+01961161,Gold Crown from Cheonmachong Tomb,Where was the Gold Crown from Cheonmachong Tomb discovered?,"Gyeongju, South Korea",81.67
+01961162,Gold Crown from Cheonmachong Tomb,How old is the Gold Crown from Cheonmachong Tomb estimated to be?,5th-6th century AD,90.0
+01961163,Gold Crown from Cheonmachong Tomb,What was the purpose of the Gold Crown from Cheonmachong Tomb?,To be buried with the deceased as a symbol of power and status.,85.0
+01971167,Gold Cap from Cheonmachong Tomb,What is the name of the tomb where this gold cap was discovered?,Cheonmachong,91.67
+01971168,Gold Cap from Cheonmachong Tomb,Who was buried in the Cheonmachong Tomb?,Unknown nobleman,86.67
+01971169,Gold Cap from Cheonmachong Tomb,In which country is the Cheonmachong Tomb located?,South Korea,60.0
+01981173,Gold Waist Belt from Cheonmachong Tomb,Who was buried in Cheonmachong Tomb?,Unknown nobleman,80.0
+01981174,Gold Waist Belt from Cheonmachong Tomb,What dynasty does Cheonmachong Tomb date back to?,Silla Dynasty,90.0
+01981175,Gold Waist Belt from Cheonmachong Tomb,Where is Cheonmachong Tomb located?,"Gyeongju, South Korea",66.67
+01991179,Gold Crown from the North Mound of Hwangnamdaechong Tomb,What is the name of the tomb where this gold crown was found?,Hwangnamdaechong,91.67
+01991180,Gold Crown from the North Mound of Hwangnamdaechong Tomb,In which region was the North Mound of Hwangnamdaechong Tomb located?,Korea,56.67
+01991181,Gold Crown from the North Mound of Hwangnamdaechong Tomb,What was the status of the person buried with this gold crown?,Nobility,81.67
+02001185,Gold Waist Belt from the North Mound of Hwangnamdaechong Tomb,Where was the Gold Waist Belt from the North Mound of Hwangnamdaechong Tomb found?,Korea,56.67
+02001186,Gold Waist Belt from the North Mound of Hwangnamdaechong Tomb,What is the significance of the Hwangnamdaechong Tomb in Korean history?,Royal tomb,53.33
+02001187,Gold Waist Belt from the North Mound of Hwangnamdaechong Tomb,Who was buried in the Hwangnamdaechong Tomb?,King Muryeong,53.33
+02011191,Glass Ewer and Cups from the South Mound of the Tomb No. 98,Where was the Glass Ewer and Cups found?,South Mound of Tomb No. 98,91.67
+02011192,Glass Ewer and Cups from the South Mound of the Tomb No. 98,What is the significance of Tomb No. 98 in relation to the cultural heritage?,It is the location where the Glass Ewer and Cups were discovered.,80.0
+02011193,Glass Ewer and Cups from the South Mound of the Tomb No. 98,What time period does the Glass Ewer and Cups from Tomb No. 98 belong to?,Unknown,90.0
+02021197,Gold Necklace from the South Mound of Hwangnamdaechong Tomb,Which mound was this gold necklace found in?,South Mound,90.0
+02021198,Gold Necklace from the South Mound of Hwangnamdaechong Tomb,What is the name of the tomb where this heritage was discovered?,Hwangnamdaechong,91.67
+02021199,Gold Necklace from the South Mound of Hwangnamdaechong Tomb,What region is the Hwangnamdaechong Tomb located in?,South Korea,60.0
+02031203,Long-necked Jar with Clay Figurines,What is the significance of the clay figurines on this heritage?,Representing deities,80.0
+02031204,Long-necked Jar with Clay Figurines,What time period does this heritage belong to?,Ancient Korea,63.33
+02031205,Long-necked Jar with Clay Figurines,Who created the Long-necked Jar with Clay Figurines?,Unknown,60.0
+02041209,Silla Transcription of Avatamsaka Sutra (The Flower Garland Sutra),What is the name of the sutra transcribed on this heritage?,Avatamsaka Sutra,83.33
+02041210,Silla Transcription of Avatamsaka Sutra (The Flower Garland Sutra),Who was responsible for the production of this heritage?,Choe Chi-won,50.0
+02041211,Silla Transcription of Avatamsaka Sutra (The Flower Garland Sutra),What is the significance of the Avatamsaka Sutra in Buddhism?,It is considered one of the most important Mahayana Buddhist scriptures.,63.33
+02051215,Stupa of State Preceptor Bogak at Cheongnyongsa Temple Site,Who is the Stupa of State Preceptor Bogak dedicated to?,State Preceptor Bogak,91.67
+02051216,Stupa of State Preceptor Bogak at Cheongnyongsa Temple Site,What is the name of the temple site where this heritage is located?,Cheongnyongsa Temple Site,80.0
+02051217,Stupa of State Preceptor Bogak at Cheongnyongsa Temple Site,What was the Stupa of State Preceptor Bogak built to commemorate?,The state preceptor's funeral.,85.0
+02061221,Jeokseongbi Monument of Silla,Who was the ruler of Silla during the construction of the Jeokseongbi Monument?,King Jinheung,90.0
+02061222,Jeokseongbi Monument of Silla,What does the inscription on the stele of Jeokseongbi Monument describe?,The achievements of King Jinheung,85.0
+02061223,Jeokseongbi Monument of Silla,What is the significance of Jeokseongbi Monument in Korean history?,It commemorates the victory over the Baekje Kingdom.,85.0
+02071227,Rock-carved Buddhas of Sinseonsa Temple in Danseoksan Mountain,Who carved the Buddhas of Sinseonsa Temple in Danseoksan Mountain?,Monks,66.67
+02071228,Rock-carved Buddhas of Sinseonsa Temple in Danseoksan Mountain,What is the name of the temple where the rock-carved Buddhas are found?,Sinseonsa Temple,86.67
+02071229,Rock-carved Buddhas of Sinseonsa Temple in Danseoksan Mountain,What is the significance of Danseoksan Mountain in Korean culture?,It is a sacred mountain.,56.67
+02081233,Gilt-bronze Standing Bodhisattva,Who is the standing figure depicted in this heritage?,Bodhisattva,70.0
+02081234,Gilt-bronze Standing Bodhisattva,Where was this heritage discovered?,Godalsa Temple,85.0
+02081235,Gilt-bronze Standing Bodhisattva,Who is believed to have dedicated this heritage to the temple?,King Jinheung,56.67
+02091239,Rock-carved Seated Buddha in Bukji-ri,Who discovered the Rock-carved Seated Buddha in Bukji-ri?,Kim Jeong-ho,53.33
+02091240,Rock-carved Seated Buddha in Bukji-ri,What dynasty ruled during the time the Rock-carved Seated Buddha in Bukji-ri was created?,Silla,86.67
+02091241,Rock-carved Seated Buddha in Bukji-ri,How tall is the seated Buddha in Bukji-ri?,3.8 meters,76.67
+02101245,Avatamsaka Sutra (The Flower Garland Sutra),What is the Avatamsaka Sutra also known as?,The Flower Garland Sutra,93.33
+02101246,Avatamsaka Sutra (The Flower Garland Sutra),Who is considered the central figure in the Avatamsaka Sutra?,Buddha Vairocana,90.0
+02101247,Avatamsaka Sutra (The Flower Garland Sutra),In what language was the Avatamsaka Sutra originally written?,Sanskrit,83.33
+02111251,Avatamsaka Sutra (The Flower Garland Sutra),What is the name of the ancient Buddhist scripture housed within this heritage?,Avatamsaka Sutra,96.67
+02111252,Avatamsaka Sutra (The Flower Garland Sutra),Who is believed to have brought the Avatamsaka Sutra to Korea and placed it in this heritage?,Choe Chi-won,85.0
+02111253,Avatamsaka Sutra (The Flower Garland Sutra),What is the English translation of the Avatamsaka Sutra?,The Flower Garland Sutra,86.67
+02121257,Avatamsaka Sutra (The Flower Garland Sutra),What is the title of this heritage?,Avatamsaka Sutra,80.0
+02121258,Avatamsaka Sutra (The Flower Garland Sutra),Who is credited with spreading the Avatamsaka Sutra in Korea?,Choe Chi-won,81.67
+02121259,Avatamsaka Sutra (The Flower Garland Sutra),What is the main theme of the Avatamsaka Sutra?,Interconnectedness and the nature of reality,85.0
+02131263,Goguryeobi Monument,What is the name of the heritage?,Goguryeobi Monument,70.0
+02131264,Goguryeobi Monument,Who was the calligrapher that wrote the inscription on the stele?,Choe Chi-won,81.67
+02131265,Goguryeobi Monument,What is the significance of the Godalsa Temple in Korean history?,It is a historic temple site from the Silla period.,36.67
+02141269,Printing Woodblocks of Miscellaneous Buddhist Scriptures in Haeinsa Temple,Where are the Printing Woodblocks of Miscellaneous Buddhist Scriptures located?,Haeinsa Temple,83.33
+02141270,Printing Woodblocks of Miscellaneous Buddhist Scriptures in Haeinsa Temple,What kind of scriptures are depicted on the woodblocks of this heritage?,Buddhist,66.67
+02141271,Printing Woodblocks of Miscellaneous Buddhist Scriptures in Haeinsa Temple,What is the significance of the Printing Woodblocks of Miscellaneous Buddhist Scriptures in Haeinsa Temple?,They are a UNESCO World Heritage Site.,86.67
+02151275,Jangni cheonmado (Painting of Heavenly Horse on a Saddle Flap) from Cheonmachong Tomb,What is the name of this heritage?,Jangni cheonmado,80.0
+02151276,Jangni cheonmado (Painting of Heavenly Horse on a Saddle Flap) from Cheonmachong Tomb,Where is Cheonmachong Tomb located?,Korea,56.67
+02151277,Jangni cheonmado (Painting of Heavenly Horse on a Saddle Flap) from Cheonmachong Tomb,What is the significance of the horse in Korean culture?,Symbol of nobility and power.,60.0
+02161281,Gilt-bronze Reliquary from Sakyamuni Stupa of Dorisa Temple,Who is believed to have created this reliquary?,Choe Chi-won,53.33
+02161282,Gilt-bronze Reliquary from Sakyamuni Stupa of Dorisa Temple,Where is the Sakyamuni Stupa of Dorisa Temple located?,Korea,60.0
+02161283,Gilt-bronze Reliquary from Sakyamuni Stupa of Dorisa Temple,What type of relic would be stored in this reliquary?,Buddhist relic,76.67
+02171287,Stone Pagoda of Casket Seal Dharani,Who was the monk that brought the Casket Seal Dharani to Silla?,Choe Chi-won,80.0
+02171288,Stone Pagoda of Casket Seal Dharani,What is inscribed on the stele of this heritage?,The Dharani Sutra,85.0
+02171289,Stone Pagoda of Casket Seal Dharani,Which dynasty ruled during the time when this heritage was built?,Silla,80.0
+02181293,Transcription of Amoghapasha kalparaja Sutra (Infallible Lasso’s Mantra and Supernatural Transformations: King of Ritual Manuals) in Silver on Indigo Paper,What is the title of the transcription on this heritage?,Infallible Lasso’s Mantra and Supernatural Transformations: King of Ritual Manuals,81.67
+02181294,Transcription of Amoghapasha kalparaja Sutra (Infallible Lasso’s Mantra and Supernatural Transformations: King of Ritual Manuals) in Silver on Indigo Paper,What language is the transcription on this heritage written in?,Sanskrit,88.33
+02181295,Transcription of Amoghapasha kalparaja Sutra (Infallible Lasso’s Mantra and Supernatural Transformations: King of Ritual Manuals) in Silver on Indigo Paper,What is the significance of the Amoghapasha kalparaja Sutra in Buddhist teachings?,It is a ritual manual for supernatural transformations.,85.0
+02191299,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Ink on White Paper,What is the title of the sutra transcribed on this heritage?,Saddharmapundarika Sutra (The Lotus Sutra),96.67
+02191300,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Ink on White Paper,Who is commonly associated with the composition of The Lotus Sutra?,Buddha,56.67
+02191301,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Ink on White Paper,In what country is The Lotus Sutra considered to be a central scripture for Mahayana Buddhism?,China,53.33
+02201305,Shurangama Sutra (The Sutra of the Heroic One),Who translated the Shurangama Sutra into Chinese?,Kumarajiva,85.0
+02201306,Shurangama Sutra (The Sutra of the Heroic One),Where is the original copy of the Shurangama Sutra believed to be kept?,Caves near Dunhuang,80.0
+02201307,Shurangama Sutra (The Sutra of the Heroic One),What is the significance of the Shurangama Sutra in Buddhism?,It is considered one of the most important Mahayana sutras.,85.0
+02211311,Gilt-bronze Miniature Pagoda,Who is believed to have built the miniature pagoda?,King Seongjong,73.33
+02211312,Gilt-bronze Miniature Pagoda,Where was the miniature pagoda discovered?,In a gilt-bronze casket buried beneath the pagoda at the Godalsa Temple site,83.33
+02211313,Gilt-bronze Miniature Pagoda,What is the significance of the inscription on the stele found with the miniature pagoda?,It provides historical information about the temple and the construction of the pagoda.,78.33
+02221317,"Bronze Incense Burner with Inscription of ""Heungwangsa Temple"" and Silver-inlaid Design",What is the inscription on the bronze incense burner?,"""Heungwangsa Temple""",91.67
+02221318,"Bronze Incense Burner with Inscription of ""Heungwangsa Temple"" and Silver-inlaid Design",What type of heritage is this bronze incense burner?,Incense burner,50.0
+02221319,"Bronze Incense Burner with Inscription of ""Heungwangsa Temple"" and Silver-inlaid Design",Who made the silver-inlaid design on this heritage?,Unspecified,80.0
+02231323,Transcription of Avatamsaka Sutra (The Flower Garland Sutra),What is the name of the sutra transcribed in this heritage?,Avatamsaka Sutra,93.33
+02231324,Transcription of Avatamsaka Sutra (The Flower Garland Sutra),Who is believed to have written this transcription of the Avatamsaka Sutra?,A monk,56.67
+02231325,Transcription of Avatamsaka Sutra (The Flower Garland Sutra),What is the significance of the Avatamsaka Sutra in Mahayana Buddhism?,It is considered a key scripture.,70.0
+02241329,Inwang jesaekdo (Scene of Inwangsan Mountain After Rain) by Jeong Seon,Who is the artist of this heritage?,Jeong Seon,86.67
+02241330,Inwang jesaekdo (Scene of Inwangsan Mountain After Rain) by Jeong Seon,What is the title of this heritage?,Inwang jesaekdo,80.0
+02241331,Inwang jesaekdo (Scene of Inwangsan Mountain After Rain) by Jeong Seon,What is the significance of Inwangsan Mountain in Korean culture?,It is considered a sacred mountain in Korean folklore.,56.67
+02251335,Geumgang jeondo (Complete View of Geumgangsan Mountain) by Jeong Seon,Who is the artist of 'Geumgang jeondo (Complete View of Geumgangsan Mountain)'?,Jeong Seon,86.67
+02251336,Geumgang jeondo (Complete View of Geumgangsan Mountain) by Jeong Seon,What is the subject matter of the painting 'Geumgang jeondo'?,Geumgangsan Mountain,91.67
+02251337,Geumgang jeondo (Complete View of Geumgangsan Mountain) by Jeong Seon,In what century was Jeong Seon active as an artist?,18th,56.67
+02261341,Painting of Amitabha Buddha Triad,Who is the central figure in the painting of Amitabha Buddha Triad?,Amitabha Buddha,83.33
+02261342,Painting of Amitabha Buddha Triad,What is the significance of the inscription on the stele in relation to this heritage?,It provides historical information,53.33
+02261343,Painting of Amitabha Buddha Triad,What is the name of the temple where this painting is located?,Godalsa Temple,60.0
+02271347,White Porcelain Jar with Plum and Bamboo Design in Underglaze Cobalt Blue,What type of design is depicted in underglaze cobalt blue on this jar?,Plum and Bamboo,88.33
+02271348,White Porcelain Jar with Plum and Bamboo Design in Underglaze Cobalt Blue,What is the predominant color of this heritage?,White,53.33
+02271349,White Porcelain Jar with Plum and Bamboo Design in Underglaze Cobalt Blue,What technique was used to apply the cobalt blue design on this jar?,Underglaze,81.67
+02281353,Celadon Lidded Bowl and Saucer with Inlaid Dragon,What type of ceramic is this heritage made of?,Celadon,73.33
+02281354,Celadon Lidded Bowl and Saucer with Inlaid Dragon,What mythical creature is inlaid on this heritage?,Dragon,80.0
+02281355,Celadon Lidded Bowl and Saucer with Inlaid Dragon,What culture does this heritage originate from?,Korean,56.67
+02291359,Wooden Seated Child Manjusri of Sangwonsa Temple,Which temple is the Wooden Seated Child Manjusri of Sangwonsa Temple located in?,Sangwonsa Temple,43.33
+02291360,Wooden Seated Child Manjusri of Sangwonsa Temple,Who is the deity represented by the child Manjusri statue?,Manjusri,83.33
+02291361,Wooden Seated Child Manjusri of Sangwonsa Temple,What is the significance of Manjusri in Buddhism?,Bodhisattva of Wisdom,56.67
+02301365,White Porcelain Lidded Jar with Plum and Bamboo Design in Underglaze Cobalt Blue,What color is the cobalt blue underglaze of this heritage?,Blue,46.67
+02301366,White Porcelain Lidded Jar with Plum and Bamboo Design in Underglaze Cobalt Blue,What is the purpose of the lidded jar in this heritage?,Storage,56.67
+02301367,White Porcelain Lidded Jar with Plum and Bamboo Design in Underglaze Cobalt Blue,What style of design is commonly found on white porcelain lidded jars in Korean cultural heritage?,Underglaze Cobalt Blue,66.67
+02311371,Geunjeongjeon Hall of Gyeongbokgung Palace,Who was the main palace of the Joseon Dynasty?,Gyeongbokgung Palace,70.0
+02311372,Geunjeongjeon Hall of Gyeongbokgung Palace,What is the name of the main throne hall in Gyeongbokgung Palace?,Geunjeongjeon Hall,91.67
+02311373,Geunjeongjeon Hall of Gyeongbokgung Palace,What was the purpose of the Geunjeongjeon Hall during the Joseon Dynasty?,Throne room for the king to meet his officials and foreign envoys,90.0
+02321377,Gyeonghoeru Pavilion of Gyeongbokgung Palace,Who was the main architect of the Gyeonghoeru Pavilion?,Regent Heungseon Daewongun,80.0
+02321378,Gyeonghoeru Pavilion of Gyeongbokgung Palace,What purpose did the Gyeonghoeru Pavilion serve during the Joseon Dynasty?,Royal banquets and state events,90.0
+02321379,Gyeonghoeru Pavilion of Gyeongbokgung Palace,What is the significance of the lotus flowers on the roof of the Gyeonghoeru Pavilion?,Symbolize purity and renewal in Buddhism,60.0
+02331383,Injeongjeon Hall of Changdeokgung Palace,What is the name of the main hall in Changdeokgung Palace?,Injeongjeon Hall,90.0
+02331384,Injeongjeon Hall of Changdeokgung Palace,Which Korean dynasty built Changdeokgung Palace?,Joseon,86.67
+02331385,Injeongjeon Hall of Changdeokgung Palace,"What is the English translation of ""Injeongjeon""?",Hall of Benevolent Governance,83.33
+02341389,Myeongjeongjeon Hall of Changgyeonggung Palace,Who was responsible for the restoration of Myeongjeongjeon Hall in 1986?,Cultural Heritage Administration,85.0
+02341390,Myeongjeongjeon Hall of Changgyeonggung Palace,What is the name of the stone stele located in front of Myeongjeongjeon Hall?,Myeongjeongjeon Stele,80.0
+02341391,Myeongjeongjeon Hall of Changgyeonggung Palace,Which dynasty originally built Changgyeonggung Palace?,Joseon Dynasty,86.67
+02351395,Main Hall of Jongmyo Shrine,Who is enshrined in the Main Hall of Jongmyo Shrine?,Kings and queens of the Joseon Dynasty,90.0
+02351396,Main Hall of Jongmyo Shrine,How many ancestral tablets are housed in the Main Hall of Jongmyo Shrine?,19,85.0
+02351397,Main Hall of Jongmyo Shrine,Why is Jongmyo Shrine designated as a UNESCO World Heritage site?,For its well-preserved Confucian rituals and traditions.,85.0
+02361401,Celestial Chart Stone,Who is believed to have created the Celestial Chart Stone?,Choe Chi-won,85.0
+02361402,Celestial Chart Stone,What is the significance of the celestial chart depicted on the stone?,It represents the belief in the connection between heaven and earth.,80.0
+02361403,Celestial Chart Stone,In what year was the Celestial Chart Stone discovered?,1947,83.33
+02371407,Clepsydra of Changgyeonggung Palace,Who was the first emperor to visit Changgyeonggung Palace in 1412?,King Taejong,60.0
+02371408,Clepsydra of Changgyeonggung Palace,What is the significance of the Clepsydra in Changgyeonggung Palace?,It was used to measure time during the Joseon Dynasty,85.0
+02371409,Clepsydra of Changgyeonggung Palace,How many palace gates does Changgyeonggung Palace have?,Five,43.33
+02381413,Celestial Globe and Armillary Clock,Who created this Celestial Globe and Armillary Clock?,Chosun Dynasty,63.33
+02381414,Celestial Globe and Armillary Clock,What purpose did this heritage serve?,Timekeeping and astronomical observations,85.0
+02381415,Celestial Globe and Armillary Clock,Where is this heritage currently located?,National Palace Museum of Korea,50.0
+02391419,Bronze Age Moulds from Yeongam (Presumed),Where were these Bronze Age moulds discovered?,Yeongam,90.0
+02391420,Bronze Age Moulds from Yeongam (Presumed),What is the presumed function of these moulds?,Casting bronze objects,80.0
+02391421,Bronze Age Moulds from Yeongam (Presumed),What time period are these moulds believed to be from?,Bronze Age,80.0
+02401425,Certificate of Meritorious Subject Issued to Yi Hwa,Who was the Certificate of Meritorious Subject issued to?,Yi Hwa,86.67
+02401426,Certificate of Meritorious Subject Issued to Yi Hwa,Who was the name of the official who issued the certificate?,King Yeongjo,81.67
+02401427,Certificate of Meritorious Subject Issued to Yi Hwa,What was the reason for Yi Hwa receiving the Certificate of Meritorious Subject?,For her faithful service to the government.,85.0
+02411431,Stone Seated Vairocana Buddha from Seongnamamsa Temple Site,Who is depicted in this heritage?,Vairocana Buddha,90.0
+02411432,Stone Seated Vairocana Buddha from Seongnamamsa Temple Site,Where was the Stone Seated Vairocana Buddha found?,Seongnamsa Temple Site,91.67
+02411433,Stone Seated Vairocana Buddha from Seongnamamsa Temple Site,What is the significance of the Vairocana Buddha in Buddhism?,Cosmic Buddha,53.33
+02421437,Agalmatolite Reliquary from the Stone Seated Vairocana Buddha from Seongnamamsa Temple Site,Where was the Seongnamamsa Temple Site located?,Korea,53.33
+02421438,Agalmatolite Reliquary from the Stone Seated Vairocana Buddha from Seongnamamsa Temple Site,Who is believed to have carved the Seated Vairocana Buddha statue?,Master Uicheon,80.0
+02421439,Agalmatolite Reliquary from the Stone Seated Vairocana Buddha from Seongnamamsa Temple Site,What is the significance of relics believed to be housed in this heritage?,Associated with Buddha,76.67
+02431443,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Silver on Indigo Paper,What is the name of the sutra transcribed on this heritage?,The Lotus Sutra,83.33
+02431444,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Silver on Indigo Paper,What is the language of the inscription on this heritage?,Sanskrit,90.0
+02431445,Transcription of Saddharmapundarika Sutra (The Lotus Sutra) in Silver on Indigo Paper,What is the significance of the Lotus Sutra in Buddhism?,It is one of the most important Mahayana Buddhist scriptures.,66.67
+02441449,Transcription of Avatamsaka Sutra (The Flower Garland Sutra) in Gold on Indigo Paper,What sutra is transcribed on this heritage?,Avatamsaka Sutra (The Flower Garland Sutra),96.67
+02441450,Transcription of Avatamsaka Sutra (The Flower Garland Sutra) in Gold on Indigo Paper,What is the significance of the Avatamsaka Sutra in Buddhism?,It is a Mahayana Buddhist scripture,63.33
+02441451,Transcription of Avatamsaka Sutra (The Flower Garland Sutra) in Gold on Indigo Paper,Why is gold often used for transcriptions on cultural heritage items?,Symbolizes purity and sacredness,56.67
+02451455,West Five-story Stone Pagoda in Janghang-ri,Who built the West Five-story Stone Pagoda in Janghang-ri?,Unknown,83.33
+02451456,West Five-story Stone Pagoda in Janghang-ri,What is the significance of the pagoda in the history of Korean Buddhism?,Represents the transition from wooden pagodas to stone pagodas,66.67
+02451457,West Five-story Stone Pagoda in Janghang-ri,What is the height of the pagoda?,10.46 meters,73.33
+02461461,Folding Screen of Gosan gugok sihwado (Poems and Paintings of the Nine Scenic Valleys of Gosan),Who is credited with painting the Folding Screen of Gosan gugok sihwado?,Kim Hong-do,91.67
+02461462,Folding Screen of Gosan gugok sihwado (Poems and Paintings of the Nine Scenic Valleys of Gosan),What is the theme of the poems inscribed on the Folding Screen of Gosan gugok sihwado?,Nine Scenic Valleys of Gosan,85.0
+02461463,Folding Screen of Gosan gugok sihwado (Poems and Paintings of the Nine Scenic Valleys of Gosan),What material was used to create this heritage?,Paper and ink,53.33
+02471467,Sowon hwagaecheop (Calligraphy by Prince Anpyeong),Who is the author of the calligraphy on this heritage?,Prince Anpyeong,91.67
+02471468,Sowon hwagaecheop (Calligraphy by Prince Anpyeong),Where is this heritage currently located?,National Museum of Korea,53.33
+02471469,Sowon hwagaecheop (Calligraphy by Prince Anpyeong),What is the significance of the inscription on this heritage?,Expresses the writer's desire for peace and prosperity.,63.33
+02481473,Portrait of Song Si-yeol,Who is the subject of the portrait?,Song Si-yeol,90.0
+02481474,Portrait of Song Si-yeol,Who painted the portrait of Song Si-yeol?,Kim Hong-do,80.0
+02491478,Self-portrait by Yun Du-seo,Who is the artist of this self-portrait?,Yun Du-seo,86.67
+02491479,Self-portrait by Yun Du-seo,In which century did Yun Du-seo live?,16th,66.67
+02491480,Self-portrait by Yun Du-seo,What is the significance of this self-portrait in Korean art history?,Earliest known self-portrait in Korean art.,90.0
+02501484,Maha prajnaparamita Sutra (Perfection of Transcendental Wisdom),Who is credited with inscribing the 'Maha prajnaparamita Sutra'?,Choe Chi-won,81.67
+02501485,Maha prajnaparamita Sutra (Perfection of Transcendental Wisdom),What language is the text of this heritage written in?,Chinese,73.33
+02501486,Maha prajnaparamita Sutra (Perfection of Transcendental Wisdom),What is the significance of the 'Maha prajnaparamita Sutra' in Buddhism?,It represents the perfection of transcendental wisdom.,85.0
+02511490,Sillabi Monument in Bongpyeong-ri,Who was the famous Korean scholar and poet that visited Sillabi Monument in Bongpyeong-ri?,Choe Chi-won,85.0
+02511491,Sillabi Monument in Bongpyeong-ri,What is the significance of the Sillabi Monument in Bongpyeong-ri?,It marks the place where Choe Chi-won composed a poem.,90.0
+02511492,Sillabi Monument in Bongpyeong-ri,What was the former name of the Godalsa Temple before it was renamed Sillabi Monument in Bongpyeong-ri?,Godalsa Temple,40.0
+02521496,Prakaranaryavaca Sastra (Acclamation of the Holy Teaching),Who is credited with the creation of the 'Prakaranaryavaca Sastra'?,Anjana,90.0
+02521497,Prakaranaryavaca Sastra (Acclamation of the Holy Teaching),In what country is the 'Prakaranaryavaca Sastra' considered a cultural heritage item?,Nepal,80.0
+02531501,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),What is the title of the text contained in this heritage?,Yogacarabhumi Sastra,83.33
+02531502,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),Who is credited with writing the 'Discourse on the Stages of Yogic Practice'?,Unknown,85.0
+02531503,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),In what language was the inscription on this heritage written?,Sanskrit,90.0
+02541507,Index of Tripitaka,Who was responsible for the carving of the wooden blocks for the Tripitaka Koreana?,1200 monks,85.0
+02541508,Index of Tripitaka,How many volumes of Buddhist scriptures are contained in the Tripitaka Koreana?,"81,258",81.67
+02541509,Index of Tripitaka,Where is the Tripitaka Koreana currently housed?,Haeinsa Temple,91.67
+02551513,Maharatnakuta Sutra (Sutra of the Great Accumulation of Treasures),What is the title of this heritage?,Maharatnakuta Sutra,80.0
+02551514,Maharatnakuta Sutra (Sutra of the Great Accumulation of Treasures),Who is the central figure of this heritage?,Buddha,56.67
+02551515,Maharatnakuta Sutra (Sutra of the Great Accumulation of Treasures),Where is this heritage currently located?,Museum,46.67
+02561519,Gilt-bronze Standing Bodhisattva from Uidang-myeon,Where is Uidang-myeon located?,South Korea,46.67
+02561520,Gilt-bronze Standing Bodhisattva from Uidang-myeon,Who is the Bodhisattva depicted in this heritage?,Avalokitesvara,76.67
+02561521,Gilt-bronze Standing Bodhisattva from Uidang-myeon,What is the significance of Bodhisattvas in Buddhism?,Beings who seek enlightenment for the benefit of all.,53.33
+02571525,Joseon bangyeok jido (Map of the Korean Territory),Who created the 'Joseon bangyeok jido (Map of the Korean Territory)'?,King Sejo,91.67
+02571526,Joseon bangyeok jido (Map of the Korean Territory),What is the significance of this heritage in Korean history?,It was the first accurate map of Korea,76.67
+02571527,Joseon bangyeok jido (Map of the Korean Territory),What is the period of the Joseon Dynasty known for?,Confucianism and cultural flourishing,46.67
+02581531,Donggwoldo (The Eastern Palaces)(1989),Who created the 'Donggwoldo (The Eastern Palaces)' in 1989?,Lee Jong-ha,80.0
+02581532,Donggwoldo (The Eastern Palaces)(1989),What is the main theme depicted in the 'Donggwoldo (The Eastern Palaces)'?,Scenes of the royal palaces of the Joseon Dynasty,85.0
+02581533,Donggwoldo (The Eastern Palaces)(1989),How many panels make up the entire 'Donggwoldo (The Eastern Palaces)' painting?,8 panels,78.33
+02601543,Certificate of Meritorious Subject Issued to Yi Won-gil,Who was the 'Certificate of Meritorious Subject Issued to Yi Won-gil' awarded to?,Yi Won-gil,83.33
+02601544,Certificate of Meritorious Subject Issued to Yi Won-gil,What was Yi Won-gil's position during the rule of Emperor Hyeonjong?,Minister of War,85.0
+02601545,Certificate of Meritorious Subject Issued to Yi Won-gil,What is the significance of this certificate in Korean history?,Recognition of military service,66.67
+02611549,Mahayana abhidharma samucchaya vyakhya (Collection of the Mahayana Abhidharma),What is the title of this heritage in English?,Collection of the Mahayana Abhidharma,83.33
+02611550,Mahayana abhidharma samucchaya vyakhya (Collection of the Mahayana Abhidharma),What is the significance of Mahayana Abhidharma in Buddhism?,It is a key scripture explaining the Buddhist teachings.,70.0
+02611551,Mahayana abhidharma samucchaya vyakhya (Collection of the Mahayana Abhidharma),Who is believed to have composed this text?,Asanga,91.67
+02621555,"Celadon Prunus Vase with Incised Lotus Design and Inscription of ""Hyomun""","What is the significance of the inscription ""Hyomun"" on this heritage?",Unknown,88.33
+02621556,"Celadon Prunus Vase with Incised Lotus Design and Inscription of ""Hyomun""",What is the historical background of Celadon Prunus Vase with Incised Lotus Design?,Korean,76.67
+02621557,"Celadon Prunus Vase with Incised Lotus Design and Inscription of ""Hyomun""",Who typically used Celadon Prunus Vases during ancient times?,Nobility,56.67
+02631561,Celadon Bowl with Silver Lip,Who created the Celadon Bowl with Silver Lip?,Unknown,60.0
+02631562,Celadon Bowl with Silver Lip,What time period does the Celadon Bowl with Silver Lip date back to?,Goryeo Dynasty,86.67
+02631563,Celadon Bowl with Silver Lip,Where was the Celadon Bowl with Silver Lip discovered?,Korea,53.33
+02641567,Celadon Lidded Prunus Vase with Incised Lotus Design,What type of design is incised on the Celadon Lidded Prunus Vase?,Lotus,86.67
+02641568,Celadon Lidded Prunus Vase with Incised Lotus Design,What material is the Celadon Lidded Prunus Vase made of?,Celadon,66.67
+02651572,Bronze Rattles from Deoksan (Presumed),Where were the bronze rattles discovered?,Deoksan,83.33
+02651573,Bronze Rattles from Deoksan (Presumed),What is the presumed origin of these bronze rattles?,Korea,60.0
+02651574,Bronze Rattles from Deoksan (Presumed),Who excavated the bronze rattles from Deoksan?,Archaeologists,56.67
+02661578,Avatamsaka Sutra (The Flower Garland Sutra),What is the name of the sutra housed within this heritage?,Avatamsaka Sutra,93.33
+02661579,Avatamsaka Sutra (The Flower Garland Sutra),Who is credited with translating the Avatamsaka Sutra into Chinese?,Buddhabhadra,90.0
+02661580,Avatamsaka Sutra (The Flower Garland Sutra),In which Buddhist tradition is the Avatamsaka Sutra considered a key scripture?,Mahayana,91.67
+02671584,Avatamsaka Sutra (The Flower Garland Sutra),What is the title of the scripture housed in this heritage?,Avatamsaka Sutra,93.33
+02671585,Avatamsaka Sutra (The Flower Garland Sutra),Who was responsible for the restoration work on this heritage in the 14th century?,King Gongmin,43.33
+02671586,Avatamsaka Sutra (The Flower Garland Sutra),In what country is this heritage located?,South Korea,43.33
+02681590,White Porcelain Octagonal Bottle with Bamboo Design in Underglaze Cobalt Blue,What material is this heritage made of?,Porcelain,60.0
+02681591,White Porcelain Octagonal Bottle with Bamboo Design in Underglaze Cobalt Blue,What technique was used to create the design on this heritage?,Underglaze Cobalt Blue,85.0
+02681592,White Porcelain Octagonal Bottle with Bamboo Design in Underglaze Cobalt Blue,What is the shape of this heritage?,Bottle,46.67
+02691596,Buncheong Jar with Inlaid Cloud and Dragon Design,Who created the Buncheong Jar with Inlaid Cloud and Dragon Design?,Unknown,53.33
+02691597,Buncheong Jar with Inlaid Cloud and Dragon Design,What materials were used to create the inlaid design on this heritage?,White slip and iron pigment,85.0
+02701601,Buncheong Turtle-shaped Bottle with Sgraffito Peony Design in Underglaze Iron,What type of bottle is this heritage?,Turtle-shaped,73.33
+02701602,Buncheong Turtle-shaped Bottle with Sgraffito Peony Design in Underglaze Iron,What is the coloring technique used on this heritage?,Underglaze Iron,81.67
+02701603,Buncheong Turtle-shaped Bottle with Sgraffito Peony Design in Underglaze Iron,What is the cultural origin of this heritage?,Korean,56.67
+02711607,White Porcelain Lidded Jar,Who is credited with the creation of this White Porcelain Lidded Jar?,Unknown,60.0
+02711608,White Porcelain Lidded Jar,What historical period does this heritage belong to?,Joseon Dynasty,70.0
+02711609,White Porcelain Lidded Jar,What is the significance of White Porcelain in Korean ceramics?,Symbol of purity and elegance,66.67
+02721613,White Porcelain Moon Jar,What is the cultural significance of the Moon Jar in Korean pottery?,Symbol of purity and elegance,85.0
+02721614,White Porcelain Moon Jar,Who were the Moon Jars originally created for?,Korean royalty,85.0
+02721615,White Porcelain Moon Jar,What is the traditional method of firing Moon Jars that gives them their unique appearance?,Wood-firing,80.0
+02731619,White Porcelain Jar with Landscape,Who is believed to have made this White Porcelain Jar with Landscape?,Korean artisan,53.33
+02731620,White Porcelain Jar with Landscape,What time period does this heritage date back to?,Joseon Dynasty,70.0
+02731621,White Porcelain Jar with Landscape,In what country is this heritage typically associated with?,Korea,56.67
+02741625,Sillabi Monument in Naengsu-ri,Who was responsible for creating the Sillabi Monument in Naengsu-ri?,Choe Chi-won,90.0
+02741626,Sillabi Monument in Naengsu-ri,What is the significance of the Sillabi Monument in Naengsu-ri?,It commemorates the construction of the Godalsa Temple.,85.0
+02741627,Sillabi Monument in Naengsu-ri,What is the approximate height of the Sillabi Monument in Naengsu-ri?,3 meters.,73.33
+02751631,Avatamsaka Sutra (The Flower Garland Sutra),What is the English translation of 'Avatamsaka Sutra'?,The Flower Garland Sutra,86.67
+02751632,Avatamsaka Sutra (The Flower Garland Sutra),Who is attributed with introducing the Avatamsaka Sutra to Korea?,Choe Chi-won,85.0
+02751633,Avatamsaka Sutra (The Flower Garland Sutra),What is the significance of the Avatamsaka Sutra in Mahayana Buddhism?,It is considered one of the most important and influential sutras.,80.0
+02761637,Avatamsaka Sutra (The Flower Garland Sutra),Who is believed to have preached the Avatamsaka Sutra according to Buddhist tradition?,Buddha,80.0
+02761638,Avatamsaka Sutra (The Flower Garland Sutra),What is the significance of the Avatamsaka Sutra in Mahayana Buddhism?,It is considered one of the most important and comprehensive sutras in the tradition.,80.0
+02761639,Avatamsaka Sutra (The Flower Garland Sutra),Where was the Avatamsaka Sutra originally translated into Chinese?,Chang'an (modern-day Xi'an),88.33
+02771643,Abhidharma vijnana kaya pada Sastra (Discourse on Consciousness Body),Who is the author of the 'Discourse on Consciousness Body'?,Vasubandhu,91.67
+02771644,Abhidharma vijnana kaya pada Sastra (Discourse on Consciousness Body),What is the main subject of the 'Abhidharma vijnana kaya pada Sastra'?,Consciousness,90.0
+02771645,Abhidharma vijnana kaya pada Sastra (Discourse on Consciousness Body),In which language was the 'Abhidharma vijnana kaya pada Sastra' originally written?,Sanskrit,83.33
+02781649,Abhidharma vibhasa Sastra (Explanatory of the Abhidharma),What does 'Abhidharma vibhasa Sastra' explain?,Abhidharma,78.33
+02781650,Abhidharma vibhasa Sastra (Explanatory of the Abhidharma),Who is credited with writing the 'Abhidharma vibhasa Sastra'?,Choe Chi-won,83.33
+02781651,Abhidharma vibhasa Sastra (Explanatory of the Abhidharma),In which ancient language was the 'Abhidharma vibhasa Sastra' originally written?,Chinese,81.67
+02791655,Ardhasatika prajnaparamita Sutra,Who is the author of the 'Ardhasatika prajnaparamita Sutra'?,Nagarjuna,76.67
+02791656,Ardhasatika prajnaparamita Sutra,What language is the text of this heritage written in?,Sanskrit,83.33
+02791657,Ardhasatika prajnaparamita Sutra,What is the significance of the 'Ardhasatika prajnaparamita Sutra' in Buddhist literature?,It is a text on the perfection of wisdom.,85.0
+02801661,Celadon Water Dropper in the Shape of Mother and Baby Monkeys,What is the heritage in the shape of?,Mother and baby monkeys,80.0
+02801662,Celadon Water Dropper in the Shape of Mother and Baby Monkeys,What type of art is this heritage an example of?,Ceramics,56.67
+02801663,Celadon Water Dropper in the Shape of Mother and Baby Monkeys,What is the significance of celadon in Korean culture?,Represents luxury and elegance,53.33
+02811667,Prakaranaryavaca Sastra (Acclamation of the Holy Teaching),Who is credited with writing the Prakaranaryavaca Sastra?,Kumarajiva,90.0
+02811668,Prakaranaryavaca Sastra (Acclamation of the Holy Teaching),What language was the Prakaranaryavaca Sastra originally written in?,Sanskrit,85.0
+02811669,Prakaranaryavaca Sastra (Acclamation of the Holy Teaching),In which country is this heritage located?,Tibet,53.33
+02821673,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),What is the focus of the 'Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice)'?,Yogic practice,80.0
+02821674,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),Who is credited with composing the 'Yogacarabhumi Sastra'?,Asanga,90.0
+02821675,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),In what language was the 'Yogacarabhumi Sastra' originally written?,Sanskrit,91.67
+02831679,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),Who is believed to have authored the 'Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice)'?,Asanga,90.0
+02831680,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),What is the primary focus of the 'Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice)'?,Yoga and meditation practices,85.0
+02831681,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),In which ancient Indian language was the 'Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice)' originally written?,Sanskrit,91.67
+02841685,Earthenware Horn Cup in the Shape of a Warrior on Horseback,What is the shape of this heritage?,Cup,46.67
+02841686,Earthenware Horn Cup in the Shape of a Warrior on Horseback,What is the theme of this heritage?,Warrior on horseback,80.0
+02841687,Earthenware Horn Cup in the Shape of a Warrior on Horseback,What is the historical significance of this heritage?,Represents strength and power.,63.33
+02851691,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),Who is credited with writing the 'Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice)'?,Asanga,90.0
+02851692,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),What is the main subject of the 'Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice)'?,Yogic practices,86.67
+02851693,Yogacarabhumi Sastra (Discourse on the Stages of Yogic Practice),In which ancient language was the 'Yogacarabhumi Sastra' originally written?,Sanskrit,91.67
+02861697,Avatamsaka Sutra (The Flower Garland Sutra),What is the Avatamsaka Sutra also known as?,The Flower Garland Sutra,93.33
+02861698,Avatamsaka Sutra (The Flower Garland Sutra),Who is traditionally credited with compiling the Avatamsaka Sutra?,Asanga,80.0
+02861699,Avatamsaka Sutra (The Flower Garland Sutra),In which Buddhist tradition is the Avatamsaka Sutra considered a key text?,Mahayana,91.67
+02871703,Avatamsaka Sutra (The Flower Garland Sutra),Who is credited with bringing the Avatamsaka Sutra to Korea?,Choe Chi-won,81.67
+02871704,Avatamsaka Sutra (The Flower Garland Sutra),What is the significance of the Avatamsaka Sutra in Buddhism?,It is considered one of the most important Mahayana sutras.,85.0
+02871705,Avatamsaka Sutra (The Flower Garland Sutra),In what year was the Avatamsaka Sutra first translated into Korean?,751 AD,90.0
+02881709,"Bronze Bell with Inscription of ""Cheonheungsa Temple"" in Seonggeosan Mountain","Who composed the inscription of ""Cheonheungsa Temple"" on the bell?",Unknown,80.0
+02881710,"Bronze Bell with Inscription of ""Cheonheungsa Temple"" in Seonggeosan Mountain",Where is Seonggeosan Mountain located?,South Korea,53.33
+02881711,"Bronze Bell with Inscription of ""Cheonheungsa Temple"" in Seonggeosan Mountain",What is the significance of Cheonheungsa Temple in Korean history?,Buddhist temple built in 7th century,53.33
+02891715,White Porcelain Bottle-shaped Ewer,Who is credited with creating this White Porcelain Bottle-shaped Ewer?,Unknown,53.33
+02891716,White Porcelain Bottle-shaped Ewer,What was the purpose of this type of ewer during the Goryeo Dynasty?,Used for serving wine or water,73.33
+02891717,White Porcelain Bottle-shaped Ewer,Where was this White Porcelain Bottle-shaped Ewer typically found within a household?,On a scholar's writing desk,73.33
+02901721,Wooden Seated Amitabha Buddha and Excavated Relics of Heukseoksa Temple,Who is believed to have sculpted the Wooden Seated Amitabha Buddha?,Uisang,80.0
+02901722,Wooden Seated Amitabha Buddha and Excavated Relics of Heukseoksa Temple,Where were the excavated relics of Heukseoksa Temple discovered?,"In Buyeo, South Korea",85.0
+02901723,Wooden Seated Amitabha Buddha and Excavated Relics of Heukseoksa Temple,What is the significance of the inscription on the stele?,It provides historical information about the temple.,63.33
+02911727,Tonggam sokpyeon (Supplement to the Comprehensive Mirror for Aid in Government),Who is credited with creating the 'Tonggam sokpyeon'?,Seo Geo-jeong,91.67
+02911728,Tonggam sokpyeon (Supplement to the Comprehensive Mirror for Aid in Government),What is the purpose of the 'Tonggam sokpyeon'?,To help officials govern effectively,85.0
+02911729,Tonggam sokpyeon (Supplement to the Comprehensive Mirror for Aid in Government),What period does the 'Tonggam sokpyeon' cover?,Goryeo Dynasty,90.0
+02921733,Maha prajnaparamita Sutra (Perfection of Transcendental Wisdom),What is the name of the sutra inscribed on this heritage?,Maha prajnaparamita Sutra,93.33
+02921734,Maha prajnaparamita Sutra (Perfection of Transcendental Wisdom),Who is believed to have written the Maha prajnaparamita Sutra?,Buddha,80.0
+02921735,Maha prajnaparamita Sutra (Perfection of Transcendental Wisdom),In which country was the Maha prajnaparamita Sutra originally composed?,India,83.33
+02931739,Petroglyphs of Bangudae Terrace in Daegok-ri,Who discovered the petroglyphs of Bangudae Terrace in Daegok-ri?,Local residents,80.0
+02931740,Petroglyphs of Bangudae Terrace in Daegok-ri,What is the estimated age of the petroglyphs at Bangudae Terrace in Daegok-ri?,"4,000-5,000 years old",90.0
+02931741,Petroglyphs of Bangudae Terrace in Daegok-ri,What is the significance of the petroglyphs at Bangudae Terrace in Daegok-ri?,They provide insight into prehistoric life and beliefs.,80.0
+02941745,"White Porcelain Bowls with Inscription of ""Cheon (天)","What does the inscription ""Cheon (天)"" refer to?",Heaven,83.33
+02941746,"White Porcelain Bowls with Inscription of ""Cheon (天)",What is the significance of Choe Chi-won in Korean history?,Scholar and poet,33.33
+02941747,"White Porcelain Bowls with Inscription of ""Cheon (天)",What do the white porcelain bowls symbolize in Korean culture?,Elegance and refinement,53.33
+02951751,Great Gilt-bronze Incense Burner of Baekje,What ancient kingdom does this Great Gilt-bronze Incense Burner belong to?,Baekje,91.67
+02951752,Great Gilt-bronze Incense Burner of Baekje,Who unearthed this heritage in 1993?,Farmers,80.0
+02961756,Stone Reliquary from Temple Site in Neungsan-ri,Who discovered the Stone Reliquary from Temple Site in Neungsan-ri?,Archaeologists,56.67
+02961757,Stone Reliquary from Temple Site in Neungsan-ri,What is the significance of the stele found at the site?,It contains an inscription by Choe Chi-won,63.33
+02961758,Stone Reliquary from Temple Site in Neungsan-ri,What was the purpose of the Godalsa Temple?,To house Buddhist relics,53.33
+02971762,Five-story Stone Pagoda in Wanggung-ri,Who discovered the Five-story Stone Pagoda in Wanggung-ri?,Choe Chi-won,43.33
+02971763,Five-story Stone Pagoda in Wanggung-ri,What kind of temple was built in front of the pagoda during the Unified Silla period?,Godalsa Temple,85.0
+02971764,Five-story Stone Pagoda in Wanggung-ri,What is the significance of the inscription on the stele near the pagoda?,It provides information about the pagoda's construction and dedication.,78.33
+02981768,Daeungjeon Hall and Ordination Platform of Tongdosa Temple,Who built the Daeungjeon Hall and Ordination Platform of Tongdosa Temple?,King Sejo,81.67
+02981769,Daeungjeon Hall and Ordination Platform of Tongdosa Temple,What is the significance of the Ordination Platform in Korean Buddhism?,It is where monks receive their precepts and ordination.,66.67
+02981770,Daeungjeon Hall and Ordination Platform of Tongdosa Temple,What is the name of the wooden fish-shaped percussion instrument located in front of the temple?,Moktak,53.33
+02991774,Yonggam sugyeong (The Handy Mirror in the Dragon Shrine),Who is believed to have received the Yonggam sugyeong as a gift?,King Hyeonjong,85.0
+02991775,Yonggam sugyeong (The Handy Mirror in the Dragon Shrine),Where is the Yonggam sugyeong currently housed?,National Museum of Korea,80.0
+02991776,Yonggam sugyeong (The Handy Mirror in the Dragon Shrine),What material was used to create the Yonggam sugyeong?,Bronze,73.33
+03001780,Documents of Sangwonsa Temple,Who is credited with the revival of Sangwonsa Temple in the 17th century?,Master Cheongdam,90.0
+03001781,Documents of Sangwonsa Temple,What is the significance of the inscription on the stele located in Sangwonsa Temple?,It commemorates the restoration of the temple.,80.0
+03011785,Gilt-bronze Standing Avalokitesvara Bodhisattva from Gyuam-ri,Where was the Gilt-bronze Standing Avalokitesvara Bodhisattva found?,Gyuam-ri,90.0
+03011786,Gilt-bronze Standing Avalokitesvara Bodhisattva from Gyuam-ri,Who is believed to be the creator of this heritage?,Korean artisan,53.33
+03011787,Gilt-bronze Standing Avalokitesvara Bodhisattva from Gyuam-ri,What is the significance of Avalokitesvara Bodhisattva in Buddhism?,Compassion and mercy,50.0
+03021791,White Porcelain Bottle with Grass and Insect Design in Underglaze Iron,What is the dominant color of the White Porcelain Bottle with Grass and Insect Design in Underglaze Iron?,White,46.67
+03021792,White Porcelain Bottle with Grass and Insect Design in Underglaze Iron,Who created the design on this White Porcelain Bottle with Grass and Insect Design in Underglaze Iron?,Unknown,76.67
+03021793,White Porcelain Bottle with Grass and Insect Design in Underglaze Iron,What is the significance of the grass and insect design on this heritage?,Symbolic of nature and life.,73.33
+03031797,Gilt-bronze Crown from Sinchon-ri,Where was the Gilt-bronze Crown from Sinchon-ri discovered?,Korea,60.0
+03031798,Gilt-bronze Crown from Sinchon-ri,What historical period does this heritage date back to?,5th-6th century AD,76.67
+03031799,Gilt-bronze Crown from Sinchon-ri,What was the significance of crowns like the Gilt-bronze Crown from Sinchon-ri in ancient Korea?,Symbol of power and authority,70.0
+03041803,Hanging Painting of Chiljangsa Temple (Five Buddhas),Who is believed to have painted the hanging painting of Five Buddhas at Chiljangsa Temple?,Uigyeom,90.0
+03041804,Hanging Painting of Chiljangsa Temple (Five Buddhas),What is the significance of the Five Buddhas depicted in the hanging painting?,They represent the five directions.,60.0
+03051808,Hanging Painting of Ansimsa Temple (The Vulture Peak Assembly),Who painted the hanging painting of the Vulture Peak Assembly?,Kim Hong-do,80.0
+03051809,Hanging Painting of Ansimsa Temple (The Vulture Peak Assembly),What is the significance of the Vulture Peak Assembly in Buddhist tradition?,It is where Buddha gave important teachings.,53.33
+03051810,Hanging Painting of Ansimsa Temple (The Vulture Peak Assembly),What is the historical importance of Ansimsa Temple in Korea?,It is one of the oldest temples in the country.,53.33
+03061814,Hanging Painting of Gapsa Temple (Buddha Triad),Who is one of the figures depicted in the Hanging Painting of Gapsa Temple?,Buddha,56.67
+03061815,Hanging Painting of Gapsa Temple (Buddha Triad),What is the name of the temple where this heritage was found?,Gapsa Temple,80.0
+03061816,Hanging Painting of Gapsa Temple (Buddha Triad),What material was used to create the Hanging Painting of Gapsa Temple?,Silk,60.0
+03071820,Hanging Painting of Sinwonsa Temple (Rocana Buddha),Who is the central figure depicted in this heritage?,Rocana Buddha,80.0
+03071821,Hanging Painting of Sinwonsa Temple (Rocana Buddha),What is the name of the temple where this hanging painting is located?,Sinwonsa Temple,76.67
+03071822,Hanging Painting of Sinwonsa Temple (Rocana Buddha),What is the significance of Choe Chi-won in relation to this heritage?,He composed the inscription on the stele.,46.67
+03081826,Hanging Painting of Janggoksa Temple (Maitreya Buddha),Who painted the Hanging Painting of Janggoksa Temple?,An Gyeon,80.0
+03081827,Hanging Painting of Janggoksa Temple (Maitreya Buddha),What is the significance of the Hanging Painting of Janggoksa Temple in Korean Buddhism?,Oldest extant painting of Maitreya Buddha in Korea,85.0
+03081828,Hanging Painting of Janggoksa Temple (Maitreya Buddha),What is the approximate age of the Hanging Painting of Janggoksa Temple?,9th century,85.0
+03091832,Hanging Painting of Hwaeomsa Temple (The Vulture Peak Assembly),Who is credited with composing the inscription on the stele at Hwaeomsa Temple?,Choe Chi-won,60.0
+03091833,Hanging Painting of Hwaeomsa Temple (The Vulture Peak Assembly),What is the name of the temple where this hanging painting is located?,Hwaeomsa Temple,76.67
+03091834,Hanging Painting of Hwaeomsa Temple (The Vulture Peak Assembly),What is the theme of the painting depicted in this heritage?,The Vulture Peak Assembly,90.0
+03101838,Hanging Painting of Cheonggoksa Temple (The Vulture Peak Assembly),Who painted the hanging painting of Cheonggoksa Temple?,Bae Sang-hwe,91.67
+03101839,Hanging Painting of Cheonggoksa Temple (The Vulture Peak Assembly),What is the subject of the hanging painting of Cheonggoksa Temple?,The Vulture Peak Assembly,81.67
+03101840,Hanging Painting of Cheonggoksa Temple (The Vulture Peak Assembly),Where is Cheonggoksa Temple located?,South Korea,53.33
+03111844,Seungjeongwon ilgi (Diaries of the Royal Secretariat),What is the title of the diaries contained in this heritage?,Diaries of the Royal Secretariat,93.33
+03111845,Seungjeongwon ilgi (Diaries of the Royal Secretariat),Who was responsible for keeping the diaries recorded in this heritage?,The Royal Secretariat,88.33
+03111846,Seungjeongwon ilgi (Diaries of the Royal Secretariat),What was the purpose of maintaining the diaries in this heritage?,To document royal proceedings and decisions.,86.67
+03121850,Jinnamgwan Hall,Who served as the headquarters for the Korean Navy during the Joseon Dynasty?,Jinnamgwan Hall,90.0
+03121851,Jinnamgwan Hall,What is the significance of the Jinnamgwan Hall in Korean history?,Naval command center,88.33
+03121852,Jinnamgwan Hall,What is the name of the official who managed the naval operations from the Jinnamgwan Hall?,Yi Sun-sin,85.0
+03131856,Sebyeonggwan Hall,Who was the founder of Sebyeonggwan Hall?,King Yeongjo,85.0
+03131857,Sebyeonggwan Hall,What was the original purpose of Sebyeonggwan Hall?,Banquet Hall,80.0
+03131858,Sebyeonggwan Hall,"What is the significance of the name ""Sebyeonggwan""?","Sebyeonggwan means ""Hall of Cultivating Integrity.""",80.0
+03141862,Samguk yusa (Memorabilia of the Three Kingdoms),Who is the author of 'Samguk yusa (Memorabilia of the Three Kingdoms)'?,Ilyeon,91.67
+03141863,Samguk yusa (Memorabilia of the Three Kingdoms),Which Korean dynasty does 'Samguk yusa (Memorabilia of the Three Kingdoms)' primarily cover?,Goryeo,56.67
+03141864,Samguk yusa (Memorabilia of the Three Kingdoms),What purpose does 'Samguk yusa (Memorabilia of the Three Kingdoms)' serve?,Collection of historical tales and legends,85.0
+03151868,Samguk yusa (Memorabilia of the Three Kingdoms),Who is the author of 'Samguk yusa (Memorabilia of the Three Kingdoms)'?,Ilyeon,91.67
+03151869,Samguk yusa (Memorabilia of the Three Kingdoms),What is the purpose of 'Samguk yusa (Memorabilia of the Three Kingdoms)'?,To record the history and legends of Korea,85.0
+03151870,Samguk yusa (Memorabilia of the Three Kingdoms),Which kingdom does 'Samguk yusa (Memorabilia of the Three Kingdoms)' primarily focus on?,Goryeo,46.67
+03161874,Samguk Yusa(Memorabilia of the Three Kingdos),Who is considered the author of the 'Samguk Yusa' (Memorabilia of the Three Kingdoms)?,Ilyeon,95.0
+03161875,Samguk Yusa(Memorabilia of the Three Kingdos),What is the significance of the 'Samguk Yusa' (Memorabilia of the Three Kingdoms) in Korean history and culture?,"It contains historical records, legends, and folklore of the Three Kingdoms period in Korea.",85.0
+03161876,Samguk Yusa(Memorabilia of the Three Kingdos),In what century was 'Samguk Yusa' (Memorabilia of the Three Kingdoms) compiled?,13th century,91.67
+03171880,Samguk Yusa(Memorabilia of the Three Kingdos),Who is believed to have written 'Samguk Yusa'?,Ilyeon,95.0
+03171881,Samguk Yusa(Memorabilia of the Three Kingdos),What does 'Samguk Yusa' mean in English?,Memorabilia of the Three Kingdoms,86.67
+03171882,Samguk Yusa(Memorabilia of the Three Kingdos),In what language was 'Samguk Yusa' written?,Classical Chinese,80.0
+03181886,Rock-carved Standing Buddha Triad in Dongmun-ri,Where is Dongmun-ri located?,Korea,40.0
+03181887,Rock-carved Standing Buddha Triad in Dongmun-ri,Who is believed to have carved this heritage?,Unknown,63.33
+03181888,Rock-carved Standing Buddha Triad in Dongmun-ri,What is the significance of the standing Buddha triad in Korean Buddhist art?,Represents the power of the Buddha.,60.0
+03191892,Rock-carved Seated Buddha at Bungmireugam Hermitage of Daeheungsa Temple,Where is the Bungmireugam Hermitage located?,Daeheungsa Temple,73.33
+03191893,Rock-carved Seated Buddha at Bungmireugam Hermitage of Daeheungsa Temple,Who is believed to have carved the Rock-carved Seated Buddha at Bungmireugam Hermitage?,Choe Chi-won,85.0
+03191894,Rock-carved Seated Buddha at Bungmireugam Hermitage of Daeheungsa Temple,What is the significance of the Rock-carved Seated Buddha at Bungmireugam Hermitage?,Cultural heritage,80.0
+03201898,White Porcelain Moon Jar,Who is credited with creating the White Porcelain Moon Jar?,Unknown,73.33
+03201899,White Porcelain Moon Jar,What time period does the White Porcelain Moon Jar originate from?,Joseon Dynasty,86.67
+03201900,White Porcelain Moon Jar,In which country was the White Porcelain Moon Jar traditionally used as a storage container?,Korea,81.67
+03211904,White Porcelain Moon Jar,Who is credited with the creation of the White Porcelain Moon Jar?,Korean craftsmen,70.0
+03211905,White Porcelain Moon Jar,What is the significance of the moon jar in Korean culture?,Symbol of purity and elegance,85.0
+03211906,White Porcelain Moon Jar,Where is the White Porcelain Moon Jar typically displayed?,Museums and art galleries,60.0
+03221910,Daeungjeon Hall of Bongjeongsa Temple,What is the name of this heritage?,Daeungjeon Hall,63.33
+03221911,Daeungjeon Hall of Bongjeongsa Temple,Who founded Bongjeongsa Temple?,Uisang,76.67
+03221912,Daeungjeon Hall of Bongjeongsa Temple,What is the significance of the Daeungjeon Hall within Bongjeongsa Temple?,Main prayer hall,80.0
+03231916,Rock-carved Buddhas at Chilburam Hermitage in Namsan Mountain,Who is credited with creating the rock-carved Buddhas at Chilburam Hermitage?,Unknown,80.0
+03231917,Rock-carved Buddhas at Chilburam Hermitage in Namsan Mountain,What is the location of the Chilburam Hermitage?,Namsan Mountain,66.67
+03231918,Rock-carved Buddhas at Chilburam Hermitage in Namsan Mountain,What is the significance of the Godalsa Temple in relation to this heritage?,Associated with it,43.33
+03241922,Mural Painting in Geungnakjeon Hall of Muwisa Temple,What is the name of the hall where the mural painting is located in this heritage?,Geungnakjeon Hall,83.33
+03241923,Mural Painting in Geungnakjeon Hall of Muwisa Temple,Who is believed to have painted the mural in this heritage?,Unknown,73.33
+03241924,Mural Painting in Geungnakjeon Hall of Muwisa Temple,What is the name of the temple where this heritage is located?,Muwisa Temple,63.33
+03251928,Buddhist Painting of Songgwangsa Temple,Where is Songgwangsa Temple located?,South Korea,53.33
+03251929,Buddhist Painting of Songgwangsa Temple,Who is the main figure depicted in the Buddhist painting of Songgwangsa Temple?,Buddha,66.67
+03251930,Buddhist Painting of Songgwangsa Temple,What is the significance of Songgwangsa Temple in Korean Buddhism?,It is one of the Three Jewel Temples.,76.67
+03261934,Stele of Buddhist Monk Jijeung at Bongamsa Temple,Who is the Buddhist monk depicted on the stele?,Jijeung,91.67
+03261935,Stele of Buddhist Monk Jijeung at Bongamsa Temple,Where is the Bongamsa Temple located?,South Korea,53.33
+03261936,Stele of Buddhist Monk Jijeung at Bongamsa Temple,What is the significance of the stele of Buddhist Monk Jijeung at Bongamsa Temple?,Honoring the monk's contributions to Buddhism,85.0
+03271940,Geungnakjeon Hall of Hwaamsa Temple,Who is credited with the construction of the Geungnakjeon Hall?,Monk Doseon,85.0
+03271941,Geungnakjeon Hall of Hwaamsa Temple,What is the purpose of the Geungnakjeon Hall within Hwaamsa Temple?,To enshrine Amitabha Buddha,80.0
+03271942,Geungnakjeon Hall of Hwaamsa Temple,What significant event took place at the Geungnakjeon Hall in 1950 during the Korean War?,It was used as a shelter for displaced civilians.,81.67
+03281946,Portrait of King Taejo of Joseon,Who is depicted in this portrait?,King Taejo of Joseon,90.0
+03281947,Portrait of King Taejo of Joseon,In which dynasty did King Taejo of Joseon rule?,Joseon Dynasty,90.0
+03281948,Portrait of King Taejo of Joseon,Who painted this portrait of King Taejo of Joseon?,Unknown,66.67
+03291952,Sillabi Monument in Jungseong-ri,Who is believed to have built the Sillabi Monument in Jungseong-ri?,Choe Chi-won,90.0
+03291953,Sillabi Monument in Jungseong-ri,What is the significance of the Sillabi Monument in Jungseong-ri?,It commemorates the founding of Silla.,80.0
+03301957,Dongui bogam (Principles and Practice of Eastern Medicine),Who is considered the author of Dongui bogam?,Heo Jun,95.0
+03301958,Dongui bogam (Principles and Practice of Eastern Medicine),What is the genre of Dongui bogam?,Medical book,90.0
+03301959,Dongui bogam (Principles and Practice of Eastern Medicine),In which country was Dongui bogam created?,Korea,83.33
+03311963,Dongui bogam (Principles and Practice of Eastern Medicine),Who is the author of 'Dongui bogam (Principles and Practice of Eastern Medicine)'?,Heo Jun,91.67
+03311964,Dongui bogam (Principles and Practice of Eastern Medicine),In which country was 'Dongui bogam' first published?,Korea,91.67
+03311965,Dongui bogam (Principles and Practice of Eastern Medicine),What is the significance of 'Dongui bogam' in the history of traditional Korean medicine?,It is considered a seminal text.,90.0
+03321969,Dongui bogam (Principles and Practice of Eastern Medicine),Who is the author of 'Dongui bogam (Principles and Practice of Eastern Medicine)'?,Heo Jun,91.67
+03321970,Dongui bogam (Principles and Practice of Eastern Medicine),In which century was 'Dongui bogam' written?,17th,91.67
+03321971,Dongui bogam (Principles and Practice of Eastern Medicine),What is the significance of 'Dongui bogam' in Korean traditional medicine?,It is a comprehensive medical encyclopedia.,90.0
+03331975,Worin cheongangjigok (Songs of the Moon’s Reflection on a Thousand Rivers),Who is the author of 'Worin cheongangjigok (Songs of the Moon’s Reflection on a Thousand Rivers)'?,Choe Chi-won,91.67
+03331976,Worin cheongangjigok (Songs of the Moon’s Reflection on a Thousand Rivers),What is the title of the heritage mentioned in the description?,Worin cheongangjigok,80.0
+03331977,Worin cheongangjigok (Songs of the Moon’s Reflection on a Thousand Rivers),What is the significance of the Godalsa Temple in Korean cultural history?,It is considered a masterpiece of Korean poetry.,33.33
+03341981,Wooden Amitabha Buddha Altarpiece at Daeseungsa Temple,What is the name of the temple where this Wooden Amitabha Buddha Altarpiece is located?,Daeseungsa Temple,76.67
+03341982,Wooden Amitabha Buddha Altarpiece at Daeseungsa Temple,What is the significance of the inscription on the stele in relation to the heritage?,It provides historical context,63.33
+03341983,Wooden Amitabha Buddha Altarpiece at Daeseungsa Temple,Who is believed to have crafted this Wooden Amitabha Buddha Altarpiece?,An unnamed artisan,70.0
+03351987,Samguk sagi(History of the Three Kingdoms),Who was the author of 'Samguk sagi (History of the Three Kingdoms)'?,Kim Bu-sik,91.67
+03351988,Samguk sagi(History of the Three Kingdoms),In which country is 'Samguk sagi' considered a significant historical text?,Korea,91.67
+03351989,Samguk sagi(History of the Three Kingdoms),What time period does 'Samguk sagi' cover?,Three Kingdoms period of Korea,86.67
+03361993,Samguk sagi(History of the Three Kingdoms),Who is credited with compiling the historical records in 'Samguk sagi'?,Kim Bu-sik,90.0
+03361994,Samguk sagi(History of the Three Kingdoms),Which three kingdoms are covered in 'Samguk sagi'?,"Goguryeo, Baekje, Silla",95.0
+03371998,Stone Standing Maitreya Bodhisattva of Gwanchoksa Temple,Who is depicted in the stone statue of Gwanchoksa Temple?,Maitreya Bodhisattva,83.33
+03371999,Stone Standing Maitreya Bodhisattva of Gwanchoksa Temple,Who is believed to have carved this stone statue?,Choe Chi-won,80.0
+03372000,Stone Standing Maitreya Bodhisattva of Gwanchoksa Temple,What is the name of the temple where this stone statue is located?,Gwanchoksa Temple,80.0
+03382004,Royal Certificate of Meritorious Subject Issued to Yi Je,Who was the Royal Certificate of Meritorious Subject issued to?,Yi Je,91.67
+03382005,Royal Certificate of Meritorious Subject Issued to Yi Je,Who was the king that awarded the Royal Certificate of Meritorious Subject?,King Seonjo,90.0
+03382006,Royal Certificate of Meritorious Subject Issued to Yi Je,What was Yi Je's contribution that led to the award of this certificate?,Efficacious services in the military,85.0
+03392010,Gisa gyecheop (Album of Paintings of the Gatherings of Elders),Who created the 'Gisa gyecheop (Album of Paintings of the Gatherings of Elders)'?,An Gyeon,91.67
+03392011,Gisa gyecheop (Album of Paintings of the Gatherings of Elders),What is the historical significance of this heritage?,It reflects the social and cultural life of the Goryeo period.,70.0
+03392012,Gisa gyecheop (Album of Paintings of the Gatherings of Elders),What is the theme portrayed in the 'Gisa gyecheop'?,Gatherings of elders and scholars.,85.0
+03402016,Celadon jar ’the 4th Chunhwa year’,What is the inscription on the Celadon jar?,The 4th Chunhwa year,91.67
+03402017,Celadon jar ’the 4th Chunhwa year’,What period does the Celadon jar belong to?,Chunhwa era,76.67
+03412021,Reliquary from Wangheungsa Temple Site,What is the name of the temple site where this reliquary was found?,Wangheungsa,91.67
+03412022,Reliquary from Wangheungsa Temple Site,Who was the monk associated with this heritage?,Uicheon,91.67
+03412023,Reliquary from Wangheungsa Temple Site,What was the purpose of the inscription on the stele found at the site?,Commemorating the construction of a pagoda,66.67
+03422027,Daejangjeon Hall and Rotating Sutra Case of Yongmunsa Temple,Who is responsible for rotating the sutra case?,The monk in charge,56.67
+03422028,Daejangjeon Hall and Rotating Sutra Case of Yongmunsa Temple,What is the significance of the Daejangjeon Hall in Korean Buddhism?,It is the main hall where important ceremonies are held.,66.67
+03422029,Daejangjeon Hall and Rotating Sutra Case of Yongmunsa Temple,What is the name of the temple where this heritage is located?,Yongmunsa Temple,63.33
+03432033,Rain Gauge of Chungcheong Provincial Office,Who is credited with the design of the Rain Gauge of Chungcheong Provincial Office?,King Sejong,90.0
+03432034,Rain Gauge of Chungcheong Provincial Office,Where is the Rain Gauge of Chungcheong Provincial Office located?,Korea,50.0
+03432035,Rain Gauge of Chungcheong Provincial Office,What purpose did the Rain Gauge of Chungcheong Provincial Office serve?,Monitoring rainfall for agricultural planning.,85.0
+03442039,Rain Gauge Pedestal of Gyeongsang Provincial Office,Who was the Governor of Gyeongsang Province when this rain gauge pedestal was built?,Kim Yu-sin,50.0
+03442040,Rain Gauge Pedestal of Gyeongsang Provincial Office,What purpose did the rain gauge serve at the Gyeongsang Provincial Office?,To measure rainfall for agricultural planning,80.0
+03442041,Rain Gauge Pedestal of Gyeongsang Provincial Office,What is the significance of the inscription on the stele at the Gyeongsang Provincial Office?,It commemorates the construction of the rain gauge pedestal.,85.0
+03452045,Rain Gauge Pedestal of Imunwon hall,What is the purpose of the Rain Gauge Pedestal of Imunwon hall?,To measure rainfall,90.0
+03452046,Rain Gauge Pedestal of Imunwon hall,Who was responsible for measuring and recording the rainfall data in ancient Korea?,Royal astronomers,60.0
+03452047,Rain Gauge Pedestal of Imunwon hall,What historical period does the Rain Gauge Pedestal of Imunwon hall belong to?,Goryeo Dynasty,85.0
+03462051,Sumanotap Pagoda of Jeongamsa Temple,Who founded Jeongamsa Temple?,Uisang,66.67
+03462052,Sumanotap Pagoda of Jeongamsa Temple,What is the significance of the Sumanotap Pagoda?,It commemorates the visit of the Tang Dynasty envoy.,81.67
+03462053,Sumanotap Pagoda of Jeongamsa Temple,"What is the meaning of ""Sumanotap"" in the name of this heritage?",Pagoda of Sumeru Mountain,81.67
+03472057,Dry-lacquered Seated Statue of Buddhist Monk Huirang at Haeinsa Temple,Where is the Dry-lacquered Seated Statue of Buddhist Monk Huirang located?,Haeinsa Temple,86.67
+03472058,Dry-lacquered Seated Statue of Buddhist Monk Huirang at Haeinsa Temple,Who is depicted in this heritage?,Buddhist Monk Huirang,91.67
+03472059,Dry-lacquered Seated Statue of Buddhist Monk Huirang at Haeinsa Temple,What technique was used to create this heritage?,Dry-lacquering,90.0
+03482063,Gisa gyecheop (Album of Paintings of the Gatherings of Elders) and Case,What is the title of this heritage?,Gisa gyecheop (Album of Paintings of the Gatherings of Elders),80.0
+03482064,Gisa gyecheop (Album of Paintings of the Gatherings of Elders) and Case,Who is credited with compiling the paintings in this heritage?,Kim Eun-ho,85.0
+03482065,Gisa gyecheop (Album of Paintings of the Gatherings of Elders) and Case,What is the significance of the gatherings depicted in this heritage?,They represent the Confucian ideals of respect for elders and learning from the wisdom of the past.,85.0
+03512081,Gilt-bronze Seated Bhaisajyaguru Buddha and Enshrined Votive Offerings of Janggoksa Temple in Cheongyang,Where is Janggoksa Temple located?,Cheongyang,63.33
+03512082,Gilt-bronze Seated Bhaisajyaguru Buddha and Enshrined Votive Offerings of Janggoksa Temple in Cheongyang,Who is depicted in the central figure of this heritage?,Bhaisajyaguru Buddha,81.67
+03512083,Gilt-bronze Seated Bhaisajyaguru Buddha and Enshrined Votive Offerings of Janggoksa Temple in Cheongyang,What is the significance of the Bhaisajyaguru Buddha in Buddhism?,Healing and Medicine Buddha,56.67
+03542099,The Sarira Reliquaries of the West Pagoda at the Mireuksa Temple Site,Who is believed to have been enshrined in the Sarira Reliquaries?,Buddha,66.67
+03542100,The Sarira Reliquaries of the West Pagoda at the Mireuksa Temple Site,What is the significance of the Mireuksa Temple Site in Korean history?,It is a UNESCO World Heritage Site,53.33
+03542101,The Sarira Reliquaries of the West Pagoda at the Mireuksa Temple Site,What is the name of the pagoda at the Mireuksa Temple Site?,West Pagoda,73.33
