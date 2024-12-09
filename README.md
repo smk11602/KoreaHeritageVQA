@@ -40,52 +40,8 @@
 ---
 
 ## 📂 프로젝트 구조
-📂 프로젝트 구조
 
-koreaheritageVQAdataset
-├── evaluated_contextual_questions.csv        
-├── korea_heritage_VQA_final.csv              # 최종 VQA 데이터셋
-├── korea_heritage_VQA_finetune.json          # RAG용 데이터파일
-├── korea_heritage_VQA_R.csv                  # 평가 관련 데이터
-├── performance_reservation_list.csv          # 한국문화재단 데이터셋
-├── processing_data.csv                       
-models
-├── question_classifier.py                    # 질문 유형 분류 모델 코드
-├── train_classifier.py                       # Classifier 모델 학습 코드
-├── QAModel
-│   ├── rag.py                                # RAG 기반 QA 모델 코드
-│   └── logs                                  
-├── testmodel
-│   ├── test_blip.py                          # BLIP 모델 테스트 코드
-│   ├── test_ofa.py                           # OFA 모델 테스트 코드
-│   └── test_vilt.py                          # ViLT 모델 테스트 코드
-├── utils
-│   └── VQA_data_loader.py                    
-└── VQAModel
-    ├── fine_tune_vilt.py                     # ViLT 모델 Fine-tuning 코드
-    ├── vilt.py                               
-    └── finetune_vilt
-        ├── config.json                       # Fine-tuning 설정 파일
-        ├── preprocessor_config.json          
-        ├── special_tokens_map.json           
-        ├── tokenizer.json                   
-        ├── tokenizer_config.json            
-        └── vocab.txt                        
-prepare
-├── contextual_eval.py                        # 컨텍스트 질문 생성 및 정제 코드
-├── data_crawl.py                             # 데이터(이미지, 설명) 크롤링 스크립트
-└── qa_generator.py                           # 질문 생성 코드
-VQAdataset
-├── ok_vqa
-│   ├── ok_vqa_sampled.json                   # 샘플링된 OK-VQA 데이터셋
-│   ├── OpenEnded_mscoco_train2014_questions.json # COCO Train2014 질문 데이터
-│   └── OpenEnded_mscoco_val2014_questions.json   # COCO Val2014 질문 데이터
-└── vqa_v2
-    ├── v2_OpenEnded_mscoco_test2015_questions.json # COCO Test2015 질문 데이터
-    ├── v2_OpenEnded_mscoco_train2014_questions.json # COCO Train2014 질문 데이터
-    └── vqa_v2_sampled.json                       # 샘플링된 VQA v2 데이터셋
-
-
+![image](https://github.com/user-attachments/assets/6ec4d19a-dbcc-410a-9616-ab80f74bf5e7)
 
 ---
 
